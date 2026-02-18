@@ -1,0 +1,136 @@
+{
+  "className": "Trail",
+  "name": "Trail",
+  "parentId": "9758",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/PostProcessing/WindService/Wind/Trail",
+  "properties": {
+    "Attachment0": {
+      "type": "Ref",
+      "value": "9247"
+    },
+    "Attachment1": {
+      "type": "Ref",
+      "value": "9246"
+    },
+    "Brightness": {
+      "type": "float",
+      "value": 1
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "ColorSequence",
+      "value": {
+        "keypoints": [
+          {
+            "color": {
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "time": 0
+          },
+          {
+            "color": {
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "time": 1
+          }
+        ]
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "FaceCamera": {
+      "type": "bool",
+      "value": true
+    },
+    "Lifetime": {
+      "type": "float",
+      "value": 2
+    },
+    "LightEmission": {
+      "type": "float",
+      "value": 1
+    },
+    "LightInfluence": {
+      "type": "float",
+      "value": 0
+    },
+    "MaxLength": {
+      "type": "float",
+      "value": 0
+    },
+    "MinLength": {
+      "type": "float",
+      "value": 0
+    },
+    "Texture": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "TextureLength": {
+      "type": "float",
+      "value": 1
+    },
+    "TextureMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "TextureMode",
+        "value": "Stretch"
+      }
+    },
+    "Transparency": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": 1
+          },
+          {
+            "envelope": 0,
+            "time": 0.3002566397190094,
+            "value": 0
+          },
+          {
+            "envelope": 0,
+            "time": 0.699743390083313,
+            "value": 0
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": 1
+          }
+        ]
+      }
+    },
+    "WidthScale": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": 1
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": 0
+          }
+        ]
+      }
+    }
+  },
+  "referenceId": "12355"
+}

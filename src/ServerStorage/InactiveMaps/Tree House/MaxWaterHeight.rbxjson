@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "MaxWaterHeight",
+  "parentId": "9384",
+  "path": "ServerStorage/InactiveMaps/Tree House/MaxWaterHeight",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 50
+    }
+  },
+  "referenceId": "9733"
+}

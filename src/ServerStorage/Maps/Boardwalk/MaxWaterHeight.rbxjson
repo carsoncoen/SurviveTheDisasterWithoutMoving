@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "MaxWaterHeight",
+  "parentId": "9377",
+  "path": "ServerStorage/Maps/Boardwalk/MaxWaterHeight",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 37.5
+    }
+  },
+  "referenceId": "9731"
+}

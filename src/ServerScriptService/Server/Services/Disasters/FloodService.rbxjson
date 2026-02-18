@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "FloodService",
+  "parentId": "9360",
+  "path": "ServerScriptService/Server/Services/Disasters/FloodService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9704"
+}

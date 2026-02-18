@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "ServerScriptService/Server/Services/Disasters/TsunamiService"
+    }
+  },
+  "className": "ModuleScript",
+  "name": "TsunamiService",
+  "parentId": "9360",
+  "path": "ServerScriptService/Server/Services/Disasters/TsunamiService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9709"
+}

@@ -1,0 +1,193 @@
+{
+  "className": "Part",
+  "name": "Primary",
+  "parentId": "9642",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/BeachChair~9642/Primary",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 47
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -36.86105346679688,
+          -406.0377807617188,
+          121.68122100830078
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.4117647111415863,
+        "g": 0.529411792755127,
+        "r": 1
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "PhysicalProperties",
+      "value": {
+        "density": 0.699999988079071,
+        "elasticity": 0.5,
+        "elasticityWeight": 1,
+        "friction": 0.30000001192092896,
+        "frictionWeight": 1
+      }
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Shape": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PartType",
+        "value": "Block"
+      }
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 0.6071428656578064,
+        "y": 0.8095238208770752,
+        "z": 7.488095283508301
+      }
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "10925"
+}

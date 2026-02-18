@@ -1,0 +1,179 @@
+{
+  "className": "WedgePart",
+  "name": "Wedge",
+  "parentId": "9604",
+  "path": "ServerStorage/Maps/Hillside Homes/InteractiveParts/CushonChair~9604/Wedge~12592",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 1007
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          9.308574676513672,
+          -428.25,
+          92.43112182617188
+        ],
+        "rotation": [
+          -8.881784197001252e-13,
+          0.9999962449073792,
+          -3.178918461799185e-8,
+          0.9999996423721313,
+          9.485745522397335e-13,
+          -8.74225847269372e-8,
+          -8.74221655067231e-8,
+          -3.1789198828846565e-8,
+          -0.9999962449073792
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.2588235437870026,
+        "g": 0.3294117748737335,
+        "r": 0.6745098233222961
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 1,
+        "y": 0.375,
+        "z": 0.625
+      }
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "12592"
+}

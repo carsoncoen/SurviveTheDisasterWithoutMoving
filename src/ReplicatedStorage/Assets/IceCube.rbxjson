@@ -1,0 +1,203 @@
+{
+  "className": "MeshPart",
+  "name": "IceCube",
+  "parentId": "9352",
+  "path": "ReplicatedStorage/Assets/IceCube",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": false
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": false
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 11
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          13.99609375,
+          -398.3758544921875,
+          -168.25631713867188
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": false
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": false
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": false
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.8588235378265381,
+        "g": 0.7333333492279053,
+        "r": 0.501960813999176
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "DoubleSided": {
+      "type": "bool",
+      "value": false
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Glass"
+      }
+    },
+    "MeshId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://2784482070"
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RenderFidelity": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RenderFidelity",
+        "value": "Precise"
+      }
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 2.783252000808716,
+        "y": 1.998295545578003,
+        "z": 2.7279839515686035
+      }
+    },
+    "TextureContent": {
+      "type": "Content"
+    },
+    "TextureID": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "9520"
+}

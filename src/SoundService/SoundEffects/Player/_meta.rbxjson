@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Player",
+  "parentId": "9320",
+  "path": "SoundService/SoundEffects/Player",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9322"
+}

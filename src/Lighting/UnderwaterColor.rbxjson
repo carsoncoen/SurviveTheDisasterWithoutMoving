@@ -1,0 +1,37 @@
+{
+  "className": "ColorCorrectionEffect",
+  "name": "UnderwaterColor",
+  "parentId": "9512",
+  "path": "Lighting/UnderwaterColor",
+  "properties": {
+    "Brightness": {
+      "type": "float",
+      "value": -0.20000000298023224
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Contrast": {
+      "type": "float",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": false
+    },
+    "Saturation": {
+      "type": "float",
+      "value": -0.30000001192092896
+    },
+    "TintColor": {
+      "type": "Color3",
+      "value": {
+        "b": 0.47058823704719543,
+        "g": 0.3529411852359772,
+        "r": 0.1568627506494522
+      }
+    }
+  },
+  "referenceId": "9310"
+}

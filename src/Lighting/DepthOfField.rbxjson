@@ -1,0 +1,33 @@
+{
+  "className": "DepthOfFieldEffect",
+  "name": "DepthOfField",
+  "parentId": "9512",
+  "path": "Lighting/DepthOfField",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": false
+    },
+    "FarIntensity": {
+      "type": "float",
+      "value": 0.10000000149011612
+    },
+    "FocusDistance": {
+      "type": "float",
+      "value": 0.05000000074505806
+    },
+    "InFocusRadius": {
+      "type": "float",
+      "value": 30
+    },
+    "NearIntensity": {
+      "type": "float",
+      "value": 0.75
+    }
+  },
+  "referenceId": "9315"
+}

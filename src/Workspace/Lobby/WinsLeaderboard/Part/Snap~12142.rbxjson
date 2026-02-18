@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "9747",
+  "path": "Workspace/Lobby/WinsLeaderboard/Part/Snap~12142",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          5.511222362518311,
+          0
+        ],
+        "rotation": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          3.814697265625e-6,
+          -0.2344970703125,
+          -4.666015625
+        ],
+        "rotation": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0.9999994039535524,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9747"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9750"
+    }
+  },
+  "referenceId": "12142"
+}

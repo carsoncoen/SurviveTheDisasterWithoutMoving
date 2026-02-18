@@ -1,0 +1,75 @@
+{
+  "className": "Motor6D",
+  "name": "Right Hip",
+  "parentId": "9762",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Torso/Right Hip",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          1,
+          -1,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0.5,
+          1,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "DesiredAngle": {
+      "type": "float",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "MaxVelocity": {
+      "type": "float",
+      "value": 0.10000000149011612
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9762"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9766"
+    }
+  },
+  "referenceId": "9716"
+}

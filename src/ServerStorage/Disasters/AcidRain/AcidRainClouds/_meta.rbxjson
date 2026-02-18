@@ -1,0 +1,31 @@
+{
+  "className": "Model",
+  "name": "AcidRainClouds",
+  "parentId": "9365",
+  "path": "ServerStorage/Disasters/AcidRain/AcidRainClouds",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "9777"
+    }
+  },
+  "referenceId": "9528"
+}

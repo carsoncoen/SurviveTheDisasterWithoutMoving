@@ -1,0 +1,17 @@
+{
+  "className": "BoolValue",
+  "name": "MoveDirectionX",
+  "parentId": "12276",
+  "path": "Workspace/World/Water/TextureTop/MoveDirectionX",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9303"
+}

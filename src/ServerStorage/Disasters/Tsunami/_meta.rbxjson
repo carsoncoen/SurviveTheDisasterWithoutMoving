@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Tsunami",
+  "parentId": "9363",
+  "path": "ServerStorage/Disasters/Tsunami",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9366"
+}

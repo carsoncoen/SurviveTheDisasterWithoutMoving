@@ -1,0 +1,31 @@
+{
+  "className": "Model",
+  "name": "Bench",
+  "parentId": "9380",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Bench~9650",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "11608"
+    }
+  },
+  "referenceId": "9650"
+}

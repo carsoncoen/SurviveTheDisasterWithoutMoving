@@ -1,0 +1,13 @@
+{
+  "className": "RemoteFunction",
+  "name": "PurchaseItem",
+  "parentId": "9354",
+  "path": "ReplicatedStorage/RemoteFunctions/Items/PurchaseItem",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12108"
+}

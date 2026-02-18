@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Networking",
+  "parentId": "9326",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Networking",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9331"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "RemoteEvent",
+  "name": "NotificationEvent",
+  "parentId": "9345",
+  "path": "ReplicatedStorage/RemoteEvents/GUI/NotificationEvent",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12103"
+}

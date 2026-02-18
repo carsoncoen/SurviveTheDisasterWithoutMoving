@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "PostProcessing",
+  "parentId": "9344",
+  "path": "ReplicatedStorage/RemoteEvents/PostProcessing",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9347"
+}

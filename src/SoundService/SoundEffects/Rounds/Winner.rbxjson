@@ -1,0 +1,78 @@
+{
+  "className": "Sound",
+  "name": "Winner",
+  "parentId": "9324",
+  "path": "SoundService/SoundEffects/Rounds/Winner",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LoopRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "Looped": {
+      "type": "bool",
+      "value": false
+    },
+    "PlayOnRemove": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 1.340000033378601,
+        "min": 0
+      }
+    },
+    "PlaybackRegionsEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "PlaybackSpeed": {
+      "type": "float",
+      "value": 1
+    },
+    "Playing": {
+      "type": "bool",
+      "value": false
+    },
+    "RollOffMaxDistance": {
+      "type": "float",
+      "value": 10000
+    },
+    "RollOffMinDistance": {
+      "type": "float",
+      "value": 10
+    },
+    "RollOffMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RollOffMode",
+        "value": "Inverse"
+      }
+    },
+    "SoundGroup": {
+      "type": "nil"
+    },
+    "SoundId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://132919665409307"
+    },
+    "TimePosition": {
+      "type": "double",
+      "value": 0
+    },
+    "Volume": {
+      "type": "float",
+      "value": 2
+    }
+  },
+  "referenceId": "12193"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Fire",
+  "parentId": "9363",
+  "path": "ServerStorage/Disasters/Fire",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9364"
+}

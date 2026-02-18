@@ -1,0 +1,75 @@
+{
+  "className": "Motor6D",
+  "name": "RootJoint",
+  "parentId": "9767",
+  "path": "ReplicatedStorage/Assets/WinnerRig/HumanoidRootPart/RootJoint",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "DesiredAngle": {
+      "type": "float",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "MaxVelocity": {
+      "type": "float",
+      "value": 0.10000000149011612
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9767"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9762"
+    }
+  },
+  "referenceId": "9721"
+}

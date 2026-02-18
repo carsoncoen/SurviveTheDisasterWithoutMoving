@@ -1,0 +1,89 @@
+{
+  "className": "ScreenGui",
+  "name": "DeathFeedGUI",
+  "parentId": "7097",
+  "path": "StarterGui/DeathFeedGUI",
+  "properties": {
+    "AutoLocalize": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClipToDeviceSafeArea": {
+      "type": "bool",
+      "value": true
+    },
+    "DisplayOrder": {
+      "type": "int",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "ResetOnSpawn": {
+      "type": "bool",
+      "value": false
+    },
+    "RootLocalizationTable": {
+      "type": "nil"
+    },
+    "SafeAreaCompatibility": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SafeAreaCompatibility",
+        "value": "FullscreenExtension"
+      }
+    },
+    "ScreenInsets": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ScreenInsets",
+        "value": "DeviceSafeInsets"
+      }
+    },
+    "SelectionBehaviorDown": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorLeft": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorRight": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorUp": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionGroup": {
+      "type": "bool",
+      "value": false
+    },
+    "ZIndexBehavior": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ZIndexBehavior",
+        "value": "Sibling"
+      }
+    }
+  },
+  "referenceId": "12119"
+}

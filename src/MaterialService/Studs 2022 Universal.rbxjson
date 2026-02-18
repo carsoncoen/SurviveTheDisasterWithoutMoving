@@ -1,0 +1,88 @@
+{
+  "className": "MaterialVariant",
+  "name": "Studs 2022 Universal",
+  "parentId": "7087",
+  "path": "MaterialService/Studs 2022 Universal",
+  "properties": {
+    "AlphaMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AlphaMode",
+        "value": "Opaque"
+      }
+    },
+    "BaseMaterial": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ColorMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://10509840768"
+    },
+    "ColorMapContent": {
+      "type": "Content"
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "EmissiveMaskContent": {
+      "type": "Content"
+    },
+    "EmissiveStrength": {
+      "type": "float",
+      "value": 1
+    },
+    "EmissiveTint": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      }
+    },
+    "MaterialPattern": {
+      "type": "Enum",
+      "value": {
+        "enumType": "MaterialPattern",
+        "value": "Regular"
+      }
+    },
+    "MetalnessMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "MetalnessMapContent": {
+      "type": "Content"
+    },
+    "NormalMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://10509840812"
+    },
+    "NormalMapContent": {
+      "type": "Content"
+    },
+    "RoughnessMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "RoughnessMapContent": {
+      "type": "Content"
+    },
+    "StudsPerTile": {
+      "type": "float",
+      "value": 2
+    }
+  },
+  "referenceId": "9516"
+}

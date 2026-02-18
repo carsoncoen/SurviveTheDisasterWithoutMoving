@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "GUI",
+  "parentId": "12109",
+  "path": "ReplicatedStorage/GUI",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9351"
+}

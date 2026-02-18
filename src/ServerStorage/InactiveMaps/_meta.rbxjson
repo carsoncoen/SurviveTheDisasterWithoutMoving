@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "InactiveMaps",
+  "parentId": "12132",
+  "path": "ServerStorage/InactiveMaps",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9383"
+}

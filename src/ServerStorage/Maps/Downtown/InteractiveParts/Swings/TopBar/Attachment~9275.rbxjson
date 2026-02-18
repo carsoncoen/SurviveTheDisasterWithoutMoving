@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "Attachment",
+  "parentId": "11412",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/TopBar/Attachment~9275",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          4.625
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9275"
+}

@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "ConfettiService",
+  "parentId": "9343",
+  "path": "ReplicatedStorage/Shared/Modules/Services/Utils/ConfettiService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9683"
+}

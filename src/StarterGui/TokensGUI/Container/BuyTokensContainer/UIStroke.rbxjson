@@ -1,0 +1,72 @@
+{
+  "className": "UIStroke",
+  "name": "UIStroke",
+  "parentId": "9408",
+  "path": "StarterGui/TokensGUI/Container/BuyTokensContainer/UIStroke",
+  "properties": {
+    "ApplyStrokeMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ApplyStrokeMode",
+        "value": "Border"
+      }
+    },
+    "BorderOffset": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    },
+    "BorderStrokePosition": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderStrokePosition",
+        "value": "Center"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.062745101749897,
+        "g": 0.658823549747467,
+        "r": 0.19215688109397888
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "LineJoinMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LineJoinMode",
+        "value": "Round"
+      }
+    },
+    "StrokeSizingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "StrokeSizingMode",
+        "value": "FixedSize"
+      }
+    },
+    "Thickness": {
+      "type": "float",
+      "value": 5
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "12524"
+}

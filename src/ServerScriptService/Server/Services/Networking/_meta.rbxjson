@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Networking",
+  "parentId": "9356",
+  "path": "ServerScriptService/Server/Services/Networking",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9359"
+}

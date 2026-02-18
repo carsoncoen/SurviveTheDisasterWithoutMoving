@@ -1,0 +1,13 @@
+{
+  "className": "StarterPack",
+  "name": "StarterPack",
+  "parentId": "121922",
+  "path": "StarterPack",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "7096"
+}

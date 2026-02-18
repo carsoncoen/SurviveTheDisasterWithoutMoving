@@ -1,0 +1,41 @@
+{
+  "className": "UIPadding",
+  "name": "UIPadding",
+  "parentId": "1622544",
+  "path": "StarterGui/ShopGUI/Container/Tabs/CosmeticsButton/UIPadding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PaddingBottom": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.20000000298023224
+      }
+    },
+    "PaddingLeft": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.15000000596046448
+      }
+    },
+    "PaddingRight": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.15000000596046448
+      }
+    },
+    "PaddingTop": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.20000000298023224
+      }
+    }
+  },
+  "referenceId": "1622546"
+}

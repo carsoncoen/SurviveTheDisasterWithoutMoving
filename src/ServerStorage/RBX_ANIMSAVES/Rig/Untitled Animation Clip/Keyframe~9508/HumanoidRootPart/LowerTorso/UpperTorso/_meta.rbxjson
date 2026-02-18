@@ -1,0 +1,52 @@
+{
+  "className": "Pose",
+  "name": "UpperTorso",
+  "parentId": "12089",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/Keyframe~9508/HumanoidRootPart/LowerTorso/UpperTorso",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0.00002543131449783687,
+          0
+        ],
+        "rotation": [
+          0.9973523020744324,
+          0.01728031598031521,
+          -0.07063839584589005,
+          -0.0015876516699790957,
+          0.9762998223304749,
+          0.2164166122674942,
+          0.07270399481058121,
+          -0.2157314568758011,
+          0.9737423062324524
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "EasingDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingDirection",
+        "value": "In"
+      }
+    },
+    "EasingStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingStyle",
+        "value": "Linear"
+      }
+    },
+    "Weight": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12090"
+}

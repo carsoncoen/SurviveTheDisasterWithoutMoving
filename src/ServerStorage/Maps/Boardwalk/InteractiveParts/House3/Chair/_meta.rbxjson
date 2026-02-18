@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "Chair",
+  "parentId": "9617",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/House3/Chair",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9618"
+}

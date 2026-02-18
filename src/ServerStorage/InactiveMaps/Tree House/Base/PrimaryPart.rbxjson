@@ -1,0 +1,186 @@
+{
+  "className": "Part",
+  "name": "PrimaryPart",
+  "parentId": "9661",
+  "path": "ServerStorage/InactiveMaps/Tree House/Base/PrimaryPart",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 309
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          7.62109375,
+          -447.75,
+          72.93118286132812
+        ],
+        "rotation": [
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": false
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": false
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": false
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.250980406999588,
+        "g": 0.5568627715110779,
+        "r": 0.20392157137393951
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Shape": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PartType",
+        "value": "Block"
+      }
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 100,
+        "y": 1,
+        "z": 100
+      }
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12070"
+}

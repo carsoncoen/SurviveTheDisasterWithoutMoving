@@ -1,0 +1,193 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "parentId": "9632",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/PalmTree~9632/Part~10755",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 313
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -4.831696033477783,
+          -418.1735229492188,
+          54.73876953125
+        ],
+        "rotation": [
+          0.8160375952720642,
+          -0.1965467631816864,
+          -0.543554961681366,
+          0.2365841269493103,
+          0.9716033339500428,
+          0.003856152296066284,
+          0.5273619294166565,
+          -0.13174323737621307,
+          0.8393646478652954
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.0235294122248888,
+        "g": 0.5647059082984924,
+        "r": 0.1411764770746231
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "PhysicalProperties",
+      "value": {
+        "density": 0.699999988079071,
+        "elasticity": 0.5,
+        "elasticityWeight": 1,
+        "friction": 0.30000001192092896,
+        "frictionWeight": 1
+      }
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Shape": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PartType",
+        "value": "Block"
+      }
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 4,
+        "y": 0.2618932127952576,
+        "z": 1.7360024452209473
+      }
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Studs"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "10755"
+}

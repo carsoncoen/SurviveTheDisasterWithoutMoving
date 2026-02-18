@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "A5",
+  "parentId": "9369",
+  "path": "ServerStorage/Disasters/LightningStorm/LightningPart/Moveable/A5",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -3.5,
+          113.75,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9271"
+}

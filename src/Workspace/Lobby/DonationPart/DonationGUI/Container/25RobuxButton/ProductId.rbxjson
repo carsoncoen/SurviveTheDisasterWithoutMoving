@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "ProductId",
+  "parentId": "12212",
+  "path": "Workspace/Lobby/DonationPart/DonationGUI/Container/25RobuxButton/ProductId",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 3524545312
+    }
+  },
+  "referenceId": "9723"
+}

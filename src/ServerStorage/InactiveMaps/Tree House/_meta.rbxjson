@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Tree House",
+  "parentId": "9383",
+  "path": "ServerStorage/InactiveMaps/Tree House",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9384"
+}

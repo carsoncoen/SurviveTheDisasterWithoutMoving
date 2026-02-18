@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "AnimationService",
+  "parentId": "9341",
+  "path": "ReplicatedStorage/Shared/Modules/Services/Animations/AnimationService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9680"
+}

@@ -1,0 +1,17 @@
+{
+  "className": "Animator",
+  "name": "Animator",
+  "parentId": "9435",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Humanoid/Animator",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PreferLodEnabled": {
+      "type": "bool",
+      "value": true
+    }
+  },
+  "referenceId": "9245"
+}

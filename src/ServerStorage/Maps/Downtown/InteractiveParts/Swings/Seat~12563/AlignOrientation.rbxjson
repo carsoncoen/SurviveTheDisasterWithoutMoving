@@ -1,0 +1,90 @@
+{
+  "className": "AlignOrientation",
+  "name": "AlignOrientation",
+  "parentId": "12563",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/Seat~12563/AlignOrientation",
+  "properties": {
+    "AlignType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AlignType",
+        "value": "AllAxes"
+      }
+    },
+    "Attachment0": {
+      "type": "nil"
+    },
+    "Attachment1": {
+      "type": "nil"
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "BrickColor",
+      "value": 23
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "MaxAngularVelocity": {
+      "type": "float",
+      "value": "Infinity"
+    },
+    "MaxTorque": {
+      "type": "float",
+      "value": 10000
+    },
+    "Mode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "OrientationAlignmentMode",
+        "value": "TwoAttachment"
+      }
+    },
+    "PrimaryAxisOnly": {
+      "type": "bool",
+      "value": false
+    },
+    "ReactionTorqueEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "Responsiveness": {
+      "type": "float",
+      "value": 10
+    },
+    "RigidityEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9242"
+}

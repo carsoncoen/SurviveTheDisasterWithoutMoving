@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "10593",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/House4/Chair/Part~10593/Snap~12157",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -0.75,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -5.187498092651367,
+          0.125,
+          7.625
+        ],
+        "rotation": [
+          1,
+          0,
+          -2.086162567138672e-7,
+          -2.086162567138672e-7,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "10593"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "10570"
+    }
+  },
+  "referenceId": "12157"
+}

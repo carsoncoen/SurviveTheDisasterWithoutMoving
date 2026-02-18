@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "RootAttachment",
+  "parentId": "9767",
+  "path": "ReplicatedStorage/Assets/WinnerRig/HumanoidRootPart/RootAttachment",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9266"
+}

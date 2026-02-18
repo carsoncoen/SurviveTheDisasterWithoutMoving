@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Downtown",
+  "parentId": "9372",
+  "path": "ServerStorage/Maps/Downtown",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9379"
+}

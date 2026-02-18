@@ -1,0 +1,13 @@
+{
+  "className": "Teams",
+  "name": "Teams",
+  "parentId": "121922",
+  "path": "Teams",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12208"
+}

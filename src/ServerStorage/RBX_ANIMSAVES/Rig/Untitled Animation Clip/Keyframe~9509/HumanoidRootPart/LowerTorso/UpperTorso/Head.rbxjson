@@ -1,0 +1,52 @@
+{
+  "className": "Pose",
+  "name": "Head",
+  "parentId": "12095",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/Keyframe~9509/HumanoidRootPart/LowerTorso/UpperTorso/Head",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0.999885618686676,
+          -0.014276951551437378,
+          -0.00519021600484848,
+          0.014959564432501791,
+          0.9848163723945618,
+          0.17295892536640167,
+          0.002642028033733368,
+          -0.1730161160230637,
+          0.9849154353141784
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "EasingDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingDirection",
+        "value": "In"
+      }
+    },
+    "EasingStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingStyle",
+        "value": "Linear"
+      }
+    },
+    "Weight": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12097"
+}

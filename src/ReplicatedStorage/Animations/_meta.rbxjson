@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Animations",
+  "parentId": "12109",
+  "path": "ReplicatedStorage/Animations",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9349"
+}

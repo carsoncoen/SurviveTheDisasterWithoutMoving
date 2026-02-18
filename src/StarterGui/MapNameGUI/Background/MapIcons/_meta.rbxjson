@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "MapIcons",
+  "parentId": "9389",
+  "path": "StarterGui/MapNameGUI/Background/MapIcons",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9334"
+}

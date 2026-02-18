@@ -1,0 +1,72 @@
+{
+  "className": "UIStroke",
+  "name": "UIStroke",
+  "parentId": "1616459",
+  "path": "StarterGui/ShopGUI/Container/Tabs/GearButton/UIStroke",
+  "properties": {
+    "ApplyStrokeMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ApplyStrokeMode",
+        "value": "Border"
+      }
+    },
+    "BorderOffset": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    },
+    "BorderStrokePosition": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderStrokePosition",
+        "value": "Outer"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 0.6666666865348816,
+        "r": 0.19607843458652496
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "LineJoinMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LineJoinMode",
+        "value": "Round"
+      }
+    },
+    "StrokeSizingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "StrokeSizingMode",
+        "value": "FixedSize"
+      }
+    },
+    "Thickness": {
+      "type": "float",
+      "value": 2
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "1616462"
+}

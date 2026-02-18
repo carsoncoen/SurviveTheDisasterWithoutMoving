@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "InteractiveParts",
+  "parentId": "9375",
+  "path": "ServerStorage/Maps/Hillside Homes/InteractiveParts",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9376"
+}

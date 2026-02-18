@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "InteractiveParts",
+  "parentId": "9377",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9378"
+}

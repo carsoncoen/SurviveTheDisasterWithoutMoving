@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "WaterSpeed",
+  "parentId": "12276",
+  "path": "Workspace/World/Water/TextureTop/WaterSpeed",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 8
+    }
+  },
+  "referenceId": "9728"
+}

@@ -1,0 +1,67 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "parentId": "11418",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/SeeSaw/Part~11418/Weld~12614",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "11418"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "11415"
+    }
+  },
+  "referenceId": "12614"
+}

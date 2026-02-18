@@ -1,0 +1,293 @@
+{
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "StarterGui/ShopGUI/Container/ContentsFrame"
+    }
+  },
+  "className": "ScrollingFrame",
+  "name": "ContentsFrame",
+  "parentId": "1622521",
+  "path": "StarterGui/InventoryGUI/Container/ContentsFrame",
+  "properties": {
+    "Active": {
+      "type": "bool",
+      "value": true
+    },
+    "AnchorPoint": {
+      "type": "Vector2",
+      "value": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "AutoLocalize": {
+      "type": "bool",
+      "value": true
+    },
+    "AutomaticCanvasSize": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AutomaticSize",
+        "value": "None"
+      }
+    },
+    "AutomaticSize": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AutomaticSize",
+        "value": "None"
+      }
+    },
+    "BackgroundColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.5960784554481506,
+        "g": 0.4000000059604645,
+        "r": 0.12941177189350128
+      }
+    },
+    "BackgroundTransparency": {
+      "type": "float",
+      "value": 0.30000001192092896
+    },
+    "BorderColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "BorderMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderMode",
+        "value": "Outline"
+      }
+    },
+    "BorderSizePixel": {
+      "type": "int",
+      "value": 0
+    },
+    "BottomImage": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxasset://textures/ui/Scroll/scroll-bottom.png"
+    },
+    "BottomImageContent": {
+      "type": "Content"
+    },
+    "CanvasPosition": {
+      "type": "Vector2",
+      "value": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "CanvasSize": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0
+        },
+        "y": {
+          "offset": 0,
+          "scale": 1
+        }
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClipsDescendants": {
+      "type": "bool",
+      "value": true
+    },
+    "ElasticBehavior": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ElasticBehavior",
+        "value": "WhenScrollable"
+      }
+    },
+    "HorizontalScrollBarInset": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ScrollBarInset",
+        "value": "None"
+      }
+    },
+    "Interactable": {
+      "type": "bool",
+      "value": true
+    },
+    "LayoutOrder": {
+      "type": "int",
+      "value": 0
+    },
+    "MidImage": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxasset://textures/ui/Scroll/scroll-middle.png"
+    },
+    "MidImageContent": {
+      "type": "Content"
+    },
+    "NextSelectionDown": {
+      "type": "nil"
+    },
+    "NextSelectionLeft": {
+      "type": "nil"
+    },
+    "NextSelectionRight": {
+      "type": "nil"
+    },
+    "NextSelectionUp": {
+      "type": "nil"
+    },
+    "Position": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.04235922172665596
+        },
+        "y": {
+          "offset": 0,
+          "scale": 0.3348195552825928
+        }
+      }
+    },
+    "RootLocalizationTable": {
+      "type": "nil"
+    },
+    "Rotation": {
+      "type": "float",
+      "value": 0
+    },
+    "ScrollBarImageColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "ScrollBarImageTransparency": {
+      "type": "float",
+      "value": 0
+    },
+    "ScrollBarThickness": {
+      "type": "int",
+      "value": 6
+    },
+    "ScrollingDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ScrollingDirection",
+        "value": "XY"
+      }
+    },
+    "ScrollingEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Selectable": {
+      "type": "bool",
+      "value": true
+    },
+    "SelectionBehaviorDown": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorLeft": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorRight": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorUp": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionGroup": {
+      "type": "bool",
+      "value": true
+    },
+    "SelectionImageObject": {
+      "type": "nil"
+    },
+    "SelectionOrder": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.9149580597877502
+        },
+        "y": {
+          "offset": 0,
+          "scale": 0.6090025305747986
+        }
+      }
+    },
+    "SizeConstraint": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SizeConstraint",
+        "value": "RelativeXY"
+      }
+    },
+    "TopImage": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxasset://textures/ui/Scroll/scroll-top.png"
+    },
+    "TopImageContent": {
+      "type": "Content"
+    },
+    "VerticalScrollBarInset": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ScrollBarInset",
+        "value": "None"
+      }
+    },
+    "VerticalScrollBarPosition": {
+      "type": "Enum",
+      "value": {
+        "enumType": "VerticalScrollBarPosition",
+        "value": "Right"
+      }
+    },
+    "Visible": {
+      "type": "bool",
+      "value": true
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "1622548"
+}

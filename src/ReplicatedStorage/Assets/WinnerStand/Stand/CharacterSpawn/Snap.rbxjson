@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "9769",
+  "path": "ReplicatedStorage/Assets/WinnerStand/Stand/CharacterSpawn/Snap",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -0.1875,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          1.25,
+          -1.4375
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9769"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9768"
+    }
+  },
+  "referenceId": "12145"
+}

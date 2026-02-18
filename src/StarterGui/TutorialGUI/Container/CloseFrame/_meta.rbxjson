@@ -1,0 +1,188 @@
+{
+  "className": "Frame",
+  "name": "CloseFrame",
+  "parentId": "9399",
+  "path": "StarterGui/TutorialGUI/Container/CloseFrame",
+  "properties": {
+    "Active": {
+      "type": "bool",
+      "value": false
+    },
+    "AnchorPoint": {
+      "type": "Vector2",
+      "value": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "AutoLocalize": {
+      "type": "bool",
+      "value": true
+    },
+    "AutomaticSize": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AutomaticSize",
+        "value": "None"
+      }
+    },
+    "BackgroundColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.658823549747467,
+        "g": 0.4431372880935669,
+        "r": 0.1490196138620377
+      }
+    },
+    "BackgroundTransparency": {
+      "type": "float",
+      "value": 1
+    },
+    "BorderColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "BorderMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderMode",
+        "value": "Outline"
+      }
+    },
+    "BorderSizePixel": {
+      "type": "int",
+      "value": 0
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClipsDescendants": {
+      "type": "bool",
+      "value": false
+    },
+    "Interactable": {
+      "type": "bool",
+      "value": true
+    },
+    "LayoutOrder": {
+      "type": "int",
+      "value": 0
+    },
+    "NextSelectionDown": {
+      "type": "nil"
+    },
+    "NextSelectionLeft": {
+      "type": "nil"
+    },
+    "NextSelectionRight": {
+      "type": "nil"
+    },
+    "NextSelectionUp": {
+      "type": "nil"
+    },
+    "Position": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.9537773728370668
+        },
+        "y": {
+          "offset": 0,
+          "scale": -0.06815285980701447
+        }
+      }
+    },
+    "RootLocalizationTable": {
+      "type": "nil"
+    },
+    "Rotation": {
+      "type": "float",
+      "value": 0
+    },
+    "Selectable": {
+      "type": "bool",
+      "value": false
+    },
+    "SelectionBehaviorDown": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorLeft": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorRight": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorUp": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionGroup": {
+      "type": "bool",
+      "value": false
+    },
+    "SelectionImageObject": {
+      "type": "nil"
+    },
+    "SelectionOrder": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.09046735614538191
+        },
+        "y": {
+          "offset": 0,
+          "scale": 0.15008662641048431
+        }
+      }
+    },
+    "SizeConstraint": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SizeConstraint",
+        "value": "RelativeXY"
+      }
+    },
+    "Style": {
+      "type": "Enum",
+      "value": {
+        "enumType": "FrameStyle",
+        "value": "Custom"
+      }
+    },
+    "Visible": {
+      "type": "bool",
+      "value": true
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "9403"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "ReplicatedFirst",
+  "name": "ReplicatedFirst",
+  "parentId": "121922",
+  "path": "ReplicatedFirst",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "7084"
+}

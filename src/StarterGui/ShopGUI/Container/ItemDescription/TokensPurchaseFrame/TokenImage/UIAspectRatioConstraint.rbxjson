@@ -1,0 +1,31 @@
+{
+  "className": "UIAspectRatioConstraint",
+  "name": "UIAspectRatioConstraint",
+  "parentId": "1616526",
+  "path": "StarterGui/ShopGUI/Container/ItemDescription/TokensPurchaseFrame/TokenImage/UIAspectRatioConstraint",
+  "properties": {
+    "AspectRatio": {
+      "type": "float",
+      "value": 1
+    },
+    "AspectType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AspectType",
+        "value": "FitWithinMaxSize"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "DominantAxis": {
+      "type": "Enum",
+      "value": {
+        "enumType": "DominantAxis",
+        "value": "Width"
+      }
+    }
+  },
+  "referenceId": "1616527"
+}

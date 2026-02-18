@@ -1,0 +1,41 @@
+{
+  "className": "UIPadding",
+  "name": "UIPadding",
+  "parentId": "12215",
+  "path": "Workspace/Lobby/DonationPart/DonationGUI/Container/250RobuxButton/UIPadding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PaddingBottom": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    },
+    "PaddingLeft": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.10000000149011612
+      }
+    },
+    "PaddingRight": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.20000000298023224
+      }
+    },
+    "PaddingTop": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    }
+  },
+  "referenceId": "12468"
+}

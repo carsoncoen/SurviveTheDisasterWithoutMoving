@@ -1,0 +1,29 @@
+{
+  "className": "BloomEffect",
+  "name": "Bloom",
+  "parentId": "9512",
+  "path": "Lighting/Bloom",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Intensity": {
+      "type": "float",
+      "value": 1
+    },
+    "Size": {
+      "type": "float",
+      "value": 24
+    },
+    "Threshold": {
+      "type": "float",
+      "value": 2
+    }
+  },
+  "referenceId": "9290"
+}

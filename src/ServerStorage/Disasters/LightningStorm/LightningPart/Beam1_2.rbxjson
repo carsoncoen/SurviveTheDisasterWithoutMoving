@@ -1,0 +1,125 @@
+{
+  "className": "Beam",
+  "name": "Beam1_2",
+  "parentId": "9784",
+  "path": "ServerStorage/Disasters/LightningStorm/LightningPart/Beam1_2",
+  "properties": {
+    "Attachment0": {
+      "type": "Ref",
+      "value": "9267"
+    },
+    "Attachment1": {
+      "type": "Ref",
+      "value": "9268"
+    },
+    "Brightness": {
+      "type": "float",
+      "value": 1
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "ColorSequence",
+      "value": {
+        "keypoints": [
+          {
+            "color": {
+              "b": 1,
+              "g": 0.9411764740943908,
+              "r": 0.9333333373069764
+            },
+            "time": 0
+          },
+          {
+            "color": {
+              "b": 1,
+              "g": 0.9411764740943908,
+              "r": 0.9333333373069764
+            },
+            "time": 1
+          }
+        ]
+      }
+    },
+    "CurveSize0": {
+      "type": "float",
+      "value": 0
+    },
+    "CurveSize1": {
+      "type": "float",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "FaceCamera": {
+      "type": "bool",
+      "value": true
+    },
+    "LightEmission": {
+      "type": "float",
+      "value": 0
+    },
+    "LightInfluence": {
+      "type": "float",
+      "value": 1
+    },
+    "Segments": {
+      "type": "int",
+      "value": 1
+    },
+    "Texture": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "TextureLength": {
+      "type": "float",
+      "value": 1
+    },
+    "TextureMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "TextureMode",
+        "value": "Wrap"
+      }
+    },
+    "TextureSpeed": {
+      "type": "float",
+      "value": 1
+    },
+    "Transparency": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": 0
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": 0
+          }
+        ]
+      }
+    },
+    "Width0": {
+      "type": "float",
+      "value": 0
+    },
+    "Width1": {
+      "type": "float",
+      "value": 1
+    },
+    "ZOffset": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "9286"
+}

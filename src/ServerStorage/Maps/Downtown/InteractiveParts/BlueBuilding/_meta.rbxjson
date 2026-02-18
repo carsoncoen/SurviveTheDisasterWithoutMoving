@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "BlueBuilding",
+  "parentId": "9380",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/BlueBuilding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9643"
+}

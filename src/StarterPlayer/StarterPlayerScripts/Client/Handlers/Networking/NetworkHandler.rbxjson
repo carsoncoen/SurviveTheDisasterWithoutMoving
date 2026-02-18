@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "NetworkHandler",
+  "parentId": "9331",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Networking/NetworkHandler",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9674"
+}

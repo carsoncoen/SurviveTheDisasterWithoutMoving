@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Hillside Homes",
+  "parentId": "9372",
+  "path": "ServerStorage/Maps/Hillside Homes",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9375"
+}

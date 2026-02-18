@@ -1,0 +1,89 @@
+{
+  "className": "HumanoidDescription",
+  "name": "HumanoidDescription",
+  "parentId": "9435",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Humanoid/HumanoidDescription",
+  "properties": {
+    "BodyTypeScale": {
+      "type": "float",
+      "value": 0
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClimbAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "DepthScale": {
+      "type": "float",
+      "value": 1
+    },
+    "Face": {
+      "type": "int",
+      "value": 0
+    },
+    "FallAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "GraphicTShirt": {
+      "type": "int",
+      "value": 0
+    },
+    "HeadScale": {
+      "type": "float",
+      "value": 1
+    },
+    "HeightScale": {
+      "type": "float",
+      "value": 1
+    },
+    "IdleAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "JumpAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "MoodAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "Pants": {
+      "type": "int",
+      "value": 0
+    },
+    "ProportionScale": {
+      "type": "float",
+      "value": 0
+    },
+    "RunAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "Shirt": {
+      "type": "int",
+      "value": 0
+    },
+    "SwimAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "UseAvatarSettings": {
+      "type": "bool",
+      "value": false
+    },
+    "WalkAnimation": {
+      "type": "int",
+      "value": 0
+    },
+    "WidthScale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "9436"
+}

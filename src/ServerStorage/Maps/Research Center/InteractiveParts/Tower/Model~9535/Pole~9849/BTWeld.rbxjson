@@ -1,0 +1,67 @@
+{
+  "className": "Weld",
+  "name": "BTWeld",
+  "parentId": "9849",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Tower/Model~9535/Pole~9849/BTWeld",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -7.433990478515625,
+          0.008411407470703125,
+          -0.017595291137695312
+        ],
+        "rotation": [
+          0.9999974370002748,
+          3.1263880373444413e-13,
+          2.980254407702887e-7,
+          -5.35276033566956e-13,
+          1,
+          7.887024366937112e-13,
+          -2.980262081564433e-7,
+          -7.887024366937112e-13,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9849"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9848"
+    }
+  },
+  "referenceId": "12611"
+}

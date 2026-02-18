@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "Attachment",
+  "parentId": "9758",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/PostProcessing/WindService/Wind/Attachment",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0.20000000298023224
+        ],
+        "rotation": [
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9246"
+}

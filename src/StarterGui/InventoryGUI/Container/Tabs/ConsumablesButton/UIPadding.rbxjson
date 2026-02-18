@@ -1,0 +1,41 @@
+{
+  "className": "UIPadding",
+  "name": "UIPadding",
+  "parentId": "1622540",
+  "path": "StarterGui/ShopGUI/Container/Tabs/ConsumablesButton/UIPadding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PaddingBottom": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.009999999776482582
+      }
+    },
+    "PaddingLeft": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    },
+    "PaddingRight": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    },
+    "PaddingTop": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.009999999776482582
+      }
+    }
+  },
+  "referenceId": "1622542"
+}

@@ -1,0 +1,218 @@
+{
+  "className": "VehicleSeat",
+  "name": "Seat",
+  "parentId": "9645",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/Seat~12563",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": false
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 26
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -33.87506103515625,
+          -433.6499938964844,
+          26.927490234375
+        ],
+        "rotation": [
+          -0.7071067690849304,
+          0,
+          -0.7071067690849304,
+          0,
+          1,
+          0,
+          0.7071067690849304,
+          0,
+          -0.7071067690849304
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.2078431397676468,
+        "g": 0.16470588743686676,
+        "r": 0.10588235408067705
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "Disabled": {
+      "type": "bool",
+      "value": false
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "HeadsUpDisplay": {
+      "type": "bool",
+      "value": false
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "MaxSpeed": {
+      "type": "float",
+      "value": 25
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 4.375,
+        "y": 0.5,
+        "z": 1.75
+      }
+    },
+    "Steer": {
+      "type": "int",
+      "value": 0
+    },
+    "SteerFloat": {
+      "type": "float",
+      "value": 0
+    },
+    "Throttle": {
+      "type": "int",
+      "value": 0
+    },
+    "ThrottleFloat": {
+      "type": "float",
+      "value": 0
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Torque": {
+      "type": "float",
+      "value": 10
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "TurnSpeed": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12563",
+  "tags": [
+    "Swing"
+  ]
+}

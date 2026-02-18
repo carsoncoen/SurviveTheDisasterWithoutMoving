@@ -1,0 +1,41 @@
+{
+  "className": "UIPadding",
+  "name": "UIPadding",
+  "parentId": "1616459",
+  "path": "StarterGui/ShopGUI/Container/Tabs/GearButton/UIPadding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PaddingBottom": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.2199999988079071
+      }
+    },
+    "PaddingLeft": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.20000000298023224
+      }
+    },
+    "PaddingRight": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.20000000298023224
+      }
+    },
+    "PaddingTop": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.2199999988079071
+      }
+    }
+  },
+  "referenceId": "1616461"
+}

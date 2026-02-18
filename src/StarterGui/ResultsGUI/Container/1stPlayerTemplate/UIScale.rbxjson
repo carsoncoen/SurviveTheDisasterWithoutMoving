@@ -1,0 +1,17 @@
+{
+  "className": "UIScale",
+  "name": "UIScale",
+  "parentId": "9415",
+  "path": "StarterGui/ResultsGUI/Container/1stPlayerTemplate/UIScale",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Scale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12493"
+}

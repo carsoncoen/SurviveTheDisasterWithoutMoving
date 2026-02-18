@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "GUI",
+  "parentId": "9344",
+  "path": "ReplicatedStorage/RemoteEvents/GUI",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9345"
+}

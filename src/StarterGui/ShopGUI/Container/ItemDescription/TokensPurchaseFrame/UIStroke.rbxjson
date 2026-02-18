@@ -1,0 +1,72 @@
+{
+  "className": "UIStroke",
+  "name": "UIStroke",
+  "parentId": "1616519",
+  "path": "StarterGui/ShopGUI/Container/ItemDescription/TokensPurchaseFrame/UIStroke",
+  "properties": {
+    "ApplyStrokeMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ApplyStrokeMode",
+        "value": "Contextual"
+      }
+    },
+    "BorderOffset": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    },
+    "BorderStrokePosition": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderStrokePosition",
+        "value": "Outer"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.18431372940540316,
+        "g": 0.5921568870544434,
+        "r": 0.7960785031318665
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "LineJoinMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LineJoinMode",
+        "value": "Round"
+      }
+    },
+    "StrokeSizingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "StrokeSizingMode",
+        "value": "FixedSize"
+      }
+    },
+    "Thickness": {
+      "type": "float",
+      "value": 2
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "1616523"
+}

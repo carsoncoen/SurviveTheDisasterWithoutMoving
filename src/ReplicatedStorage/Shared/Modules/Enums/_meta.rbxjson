@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Enums",
+  "parentId": "9338",
+  "path": "ReplicatedStorage/Shared/Modules/Enums",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9339"
+}

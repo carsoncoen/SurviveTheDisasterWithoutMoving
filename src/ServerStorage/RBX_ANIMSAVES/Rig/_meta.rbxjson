@@ -1,0 +1,16 @@
+{
+  "className": "ObjectValue",
+  "name": "Rig",
+  "parentId": "9658",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9734"
+}

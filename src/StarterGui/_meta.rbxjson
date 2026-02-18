@@ -1,0 +1,24 @@
+{
+  "className": "StarterGui",
+  "name": "StarterGui",
+  "parentId": "121922",
+  "path": "StarterGui",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ScreenOrientation": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ScreenOrientation",
+        "value": "Sensor"
+      }
+    },
+    "ShowDevelopmentGui": {
+      "type": "bool",
+      "value": true
+    }
+  },
+  "referenceId": "7097"
+}

@@ -1,0 +1,41 @@
+{
+  "className": "UIPadding",
+  "name": "UIPadding",
+  "parentId": "12268",
+  "path": "ReplicatedStorage/GUI/PlayerLeaderboardTemplate/PlayerName/UIPadding",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "PaddingBottom": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    },
+    "PaddingLeft": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    },
+    "PaddingRight": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    },
+    "PaddingTop": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0.05000000074505806
+      }
+    }
+  },
+  "referenceId": "12486"
+}

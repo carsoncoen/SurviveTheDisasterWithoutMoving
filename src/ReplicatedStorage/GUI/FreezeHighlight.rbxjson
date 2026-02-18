@@ -1,0 +1,51 @@
+{
+  "className": "Highlight",
+  "name": "FreezeHighlight",
+  "parentId": "9351",
+  "path": "ReplicatedStorage/GUI/FreezeHighlight",
+  "properties": {
+    "Adornee": {
+      "type": "nil"
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "DepthMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "HighlightDepthMode",
+        "value": "Occluded"
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "FillColor": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 0.7333333492279053,
+        "r": 0
+      }
+    },
+    "FillTransparency": {
+      "type": "float",
+      "value": 1
+    },
+    "OutlineColor": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 0.7333333492279053,
+        "r": 0
+      }
+    },
+    "OutlineTransparency": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "9433"
+}

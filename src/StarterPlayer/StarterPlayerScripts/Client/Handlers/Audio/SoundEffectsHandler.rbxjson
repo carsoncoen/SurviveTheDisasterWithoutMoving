@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "SoundEffectsHandler",
+  "parentId": "9333",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Audio/SoundEffectsHandler",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9676"
+}

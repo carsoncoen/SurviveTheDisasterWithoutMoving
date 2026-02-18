@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Disasters",
+  "parentId": "9320",
+  "path": "SoundService/SoundEffects/Disasters",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9321"
+}

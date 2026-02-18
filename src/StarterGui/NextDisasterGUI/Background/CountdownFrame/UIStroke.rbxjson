@@ -1,0 +1,72 @@
+{
+  "className": "UIStroke",
+  "name": "UIStroke",
+  "parentId": "9392",
+  "path": "StarterGui/NextDisasterGUI/Background/CountdownFrame/UIStroke",
+  "properties": {
+    "ApplyStrokeMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ApplyStrokeMode",
+        "value": "Border"
+      }
+    },
+    "BorderOffset": {
+      "type": "UDim",
+      "value": {
+        "offset": 0,
+        "scale": 0
+      }
+    },
+    "BorderStrokePosition": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BorderStrokePosition",
+        "value": "Inner"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.01568627543747425,
+        "g": 0,
+        "r": 0.4784314036369324
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "LineJoinMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LineJoinMode",
+        "value": "Bevel"
+      }
+    },
+    "StrokeSizingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "StrokeSizingMode",
+        "value": "FixedSize"
+      }
+    },
+    "Thickness": {
+      "type": "float",
+      "value": 2
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0.5
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "12509"
+}

@@ -1,0 +1,17 @@
+{
+  "className": "StringValue",
+  "name": "ThreeDTextParams",
+  "parentId": "9527",
+  "path": "ReplicatedStorage/Assets/WinnerStand/ThreeDTextObject/ThreeDTextParams",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "string",
+      "value": "{\"fontId\":\"PressStart2P\",\"up\":3,\"color\":\"0.250000,0.737226,1.000000\",\"text\":\"1\",\"leading\":0,\"thickness\":2,\"zAlign\":1,\"partMode\":0,\"scale\":8,\"right\":1,\"material\":16,\"tracking\":0,\"xAlign\":1}"
+    }
+  },
+  "referenceId": "12200"
+}

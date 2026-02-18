@@ -1,0 +1,8 @@
+{
+  "className": "TextLabel",
+  "name": "RefreshLabel",
+  "parentId": "12203",
+  "path": "Workspace/Lobby/DonationLeaderboard/Leaderboard/ContainerGui/RefreshLabel",
+  "properties": [],
+  "referenceId": "12231"
+}

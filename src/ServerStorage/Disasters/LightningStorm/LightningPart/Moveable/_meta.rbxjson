@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Moveable",
+  "parentId": "9784",
+  "path": "ServerStorage/Disasters/LightningStorm/LightningPart/Moveable",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9369"
+}

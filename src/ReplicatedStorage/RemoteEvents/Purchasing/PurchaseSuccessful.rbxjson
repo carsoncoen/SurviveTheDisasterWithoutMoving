@@ -1,0 +1,13 @@
+{
+  "className": "RemoteEvent",
+  "name": "PurchaseSuccessful",
+  "parentId": "9348",
+  "path": "ReplicatedStorage/RemoteEvents/Purchasing/PurchaseSuccessful",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12106"
+}

@@ -1,0 +1,20 @@
+{
+  "className": "UICorner",
+  "name": "UICorner",
+  "parentId": "1616459",
+  "path": "StarterGui/ShopGUI/Container/Tabs/GearButton/UICorner",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CornerRadius": {
+      "type": "UDim",
+      "value": {
+        "offset": 8,
+        "scale": 0
+      }
+    }
+  },
+  "referenceId": "1616460"
+}

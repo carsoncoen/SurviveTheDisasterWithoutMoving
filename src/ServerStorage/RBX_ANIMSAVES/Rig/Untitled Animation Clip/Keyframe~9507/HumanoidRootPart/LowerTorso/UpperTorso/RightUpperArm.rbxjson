@@ -1,0 +1,52 @@
+{
+  "className": "Pose",
+  "name": "RightUpperArm",
+  "parentId": "12085",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/Keyframe~9507/HumanoidRootPart/LowerTorso/UpperTorso/RightUpperArm",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -3.814697265625e-6,
+          0,
+          0
+        ],
+        "rotation": [
+          0.4698643088340759,
+          0.8405248522758484,
+          -0.2697179317474365,
+          -0.17105340957641602,
+          -0.213061198592186,
+          -0.9619500041007996,
+          -0.8660075664520264,
+          0.49812114238739014,
+          0.04366476461291313
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "EasingDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingDirection",
+        "value": "In"
+      }
+    },
+    "EasingStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingStyle",
+        "value": "Linear"
+      }
+    },
+    "Weight": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12086"
+}

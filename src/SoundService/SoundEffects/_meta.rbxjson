@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "SoundEffects",
+  "parentId": "6271",
+  "path": "SoundService/SoundEffects",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9320"
+}

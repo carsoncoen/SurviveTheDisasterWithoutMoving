@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "GlobalWinsLeaderboard",
+  "parentId": "9318",
+  "path": "Workspace/Lobby/GlobalWinsLeaderboard",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9522"
+}

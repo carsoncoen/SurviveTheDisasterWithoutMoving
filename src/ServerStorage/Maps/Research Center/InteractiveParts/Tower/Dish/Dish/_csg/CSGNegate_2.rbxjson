@@ -1,0 +1,194 @@
+{
+  "className": "NegateOperation",
+  "name": "CSGNegate_2",
+  "parentId": "9533",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Tower/Dish/Dish/_csg/CSGNegate_2",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 1001
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -36.924373626708984,
+          -387.14990234375,
+          34.33003234863281
+        ],
+        "rotation": [
+          1,
+          3.4942861049103164e-8,
+          -2.6261549379569263e-8,
+          1.851223422771009e-29,
+          0.6007936596870422,
+          0.7994009852409363,
+          4.3711121833212025e-8,
+          -0.7994042634963989,
+          0.6007977724075317
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": false
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Plastic"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RenderFidelity": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RenderFidelity",
+        "value": "Precise"
+      }
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 9.724845886230469,
+        "y": 9.724849700927736,
+        "z": 9.724841117858888
+      }
+    },
+    "SmoothingAngle": {
+      "type": "float",
+      "value": 0
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0.10000000149011612
+    },
+    "UsePartColor": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "401984"
+}

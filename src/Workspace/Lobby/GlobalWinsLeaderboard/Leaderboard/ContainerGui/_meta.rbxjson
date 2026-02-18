@@ -1,0 +1,127 @@
+{
+  "className": "SurfaceGui",
+  "name": "ContainerGui",
+  "parentId": "9741",
+  "path": "Workspace/Lobby/GlobalWinsLeaderboard/Leaderboard/ContainerGui",
+  "properties": {
+    "Active": {
+      "type": "bool",
+      "value": true
+    },
+    "Adornee": {
+      "type": "nil"
+    },
+    "AlwaysOnTop": {
+      "type": "bool",
+      "value": false
+    },
+    "AutoLocalize": {
+      "type": "bool",
+      "value": true
+    },
+    "Brightness": {
+      "type": "float",
+      "value": 1
+    },
+    "CanvasSize": {
+      "type": "Vector2",
+      "value": {
+        "x": 800,
+        "y": 600
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClipsDescendants": {
+      "type": "bool",
+      "value": true
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Face": {
+      "type": "Enum",
+      "value": {
+        "enumType": "NormalId",
+        "value": "Left"
+      }
+    },
+    "LightInfluence": {
+      "type": "float",
+      "value": 1
+    },
+    "MaxDistance": {
+      "type": "float",
+      "value": 1000
+    },
+    "PixelsPerStud": {
+      "type": "float",
+      "value": 50
+    },
+    "ResetOnSpawn": {
+      "type": "bool",
+      "value": true
+    },
+    "RootLocalizationTable": {
+      "type": "nil"
+    },
+    "SelectionBehaviorDown": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorLeft": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorRight": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionBehaviorUp": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SelectionBehavior",
+        "value": "Escape"
+      }
+    },
+    "SelectionGroup": {
+      "type": "bool",
+      "value": false
+    },
+    "SizingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceGuiSizingMode",
+        "value": "PixelsPerStud"
+      }
+    },
+    "ToolPunchThroughDistance": {
+      "type": "float",
+      "value": 0
+    },
+    "ZIndexBehavior": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ZIndexBehavior",
+        "value": "Sibling"
+      }
+    },
+    "ZOffset": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "12202"
+}

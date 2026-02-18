@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Purchasing",
+  "parentId": "9344",
+  "path": "ReplicatedStorage/RemoteEvents/Purchasing",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9348"
+}

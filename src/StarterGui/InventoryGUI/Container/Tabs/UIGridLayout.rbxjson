@@ -1,0 +1,78 @@
+{
+  "className": "UIGridLayout",
+  "name": "UIGridLayout",
+  "parentId": "1622533",
+  "path": "StarterGui/ShopGUI/Container/Tabs/UIGridLayout",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CellPadding": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.029999999329447746
+        },
+        "y": {
+          "offset": 0,
+          "scale": 0
+        }
+      }
+    },
+    "CellSize": {
+      "type": "UDim2",
+      "value": {
+        "x": {
+          "offset": 0,
+          "scale": 0.30000001192092896
+        },
+        "y": {
+          "offset": 0,
+          "scale": 1
+        }
+      }
+    },
+    "FillDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "FillDirection",
+        "value": "Horizontal"
+      }
+    },
+    "FillDirectionMaxCells": {
+      "type": "int",
+      "value": 0
+    },
+    "HorizontalAlignment": {
+      "type": "Enum",
+      "value": {
+        "enumType": "HorizontalAlignment",
+        "value": "Left"
+      }
+    },
+    "SortOrder": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SortOrder",
+        "value": "LayoutOrder"
+      }
+    },
+    "StartCorner": {
+      "type": "Enum",
+      "value": {
+        "enumType": "StartCorner",
+        "value": "TopLeft"
+      }
+    },
+    "VerticalAlignment": {
+      "type": "Enum",
+      "value": {
+        "enumType": "VerticalAlignment",
+        "value": "Top"
+      }
+    }
+  },
+  "referenceId": "1622534"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "AnimationRigData",
+  "name": "RigAnimationRigData",
+  "parentId": "9511",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/RigAnimationRigData",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9244"
+}

@@ -1,0 +1,29 @@
+{
+  "className": "LocalScript",
+  "name": "WaterAnimator",
+  "parentId": "12197",
+  "path": "StarterPlayer/StarterCharacterScripts/WaterAnimator",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Disabled": {
+      "type": "bool",
+      "value": false
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "RunContext": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RunContext",
+        "value": "Legacy"
+      }
+    }
+  },
+  "referenceId": "9514"
+}

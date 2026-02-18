@@ -1,0 +1,52 @@
+{
+  "className": "Pose",
+  "name": "LowerTorso",
+  "parentId": "12093",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/Keyframe~9509/HumanoidRootPart/LowerTorso",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "EasingDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingDirection",
+        "value": "In"
+      }
+    },
+    "EasingStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "PoseEasingStyle",
+        "value": "Linear"
+      }
+    },
+    "Weight": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "12094"
+}

@@ -1,0 +1,41 @@
+{
+  "className": "Fire",
+  "name": "Fire",
+  "parentId": "9364",
+  "path": "ServerStorage/Disasters/Fire/Fire",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.27450981736183167,
+        "g": 0.545098066329956,
+        "r": 0.9254902601242064
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "SecondaryColor": {
+      "type": "Color3",
+      "value": {
+        "b": 0.21568629145622256,
+        "g": 0.3137255012989044,
+        "r": 0.545098066329956
+      }
+    },
+    "Size": {
+      "type": "float",
+      "value": 15
+    },
+    "TimeScale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "9316"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Client",
+  "parentId": "12198",
+  "path": "StarterPlayer/StarterPlayerScripts/Client",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9325"
+}

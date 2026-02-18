@@ -1,0 +1,13 @@
+{
+  "className": "ServerScriptService",
+  "name": "ServerScriptService",
+  "parentId": "121922",
+  "path": "ServerScriptService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12131"
+}

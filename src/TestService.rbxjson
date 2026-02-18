@@ -1,0 +1,49 @@
+{
+  "className": "TestService",
+  "name": "TestService",
+  "parentId": "121922",
+  "path": "TestService",
+  "properties": {
+    "AutoRuns": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Description": {
+      "type": "string",
+      "value": ""
+    },
+    "ExecuteWithStudioRun": {
+      "type": "bool",
+      "value": false
+    },
+    "IsPhysicsEnvironmentalThrottled": {
+      "type": "bool",
+      "value": true
+    },
+    "IsSleepAllowed": {
+      "type": "bool",
+      "value": true
+    },
+    "NumberOfPlayers": {
+      "type": "int",
+      "value": 0
+    },
+    "SimulateSecondsLag": {
+      "type": "double",
+      "value": 0
+    },
+    "ThrottlePhysicsToRealtime": {
+      "type": "bool",
+      "value": true
+    },
+    "Timeout": {
+      "type": "double",
+      "value": 10
+    }
+  },
+  "referenceId": "12210"
+}

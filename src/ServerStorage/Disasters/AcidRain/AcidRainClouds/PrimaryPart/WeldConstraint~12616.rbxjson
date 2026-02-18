@@ -1,0 +1,21 @@
+{
+  "className": "WeldConstraint",
+  "name": "WeldConstraint",
+  "parentId": "9777",
+  "path": "ServerStorage/Disasters/AcidRain/AcidRainClouds/PrimaryPart/WeldConstraint~12616",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9777"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9775"
+    }
+  },
+  "referenceId": "12616"
+}

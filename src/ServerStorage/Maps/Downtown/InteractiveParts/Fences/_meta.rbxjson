@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Fences",
+  "parentId": "9380",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Fences",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9382"
+}

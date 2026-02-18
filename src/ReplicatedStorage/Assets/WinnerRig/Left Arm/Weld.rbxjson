@@ -1,0 +1,67 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "parentId": "9763",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Left Arm/Weld",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0.5,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -1,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9763"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "9762"
+    }
+  },
+  "referenceId": "12603"
+}

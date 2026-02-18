@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Items",
+  "parentId": "9356",
+  "path": "ServerScriptService/Server/Services/Items",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9362"
+}

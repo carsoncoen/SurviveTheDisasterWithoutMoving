@@ -1,0 +1,20 @@
+{
+  "className": "UICorner",
+  "name": "UICorner",
+  "parentId": "2496127",
+  "path": "StarterGui/ShopGUI/Container/ContentsFrame/Template/o/UICorner",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CornerRadius": {
+      "type": "UDim",
+      "value": {
+        "offset": 8,
+        "scale": 0
+      }
+    }
+  },
+  "referenceId": "2496841"
+}

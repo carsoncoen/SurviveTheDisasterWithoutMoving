@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Paths",
+  "parentId": "9380",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Paths",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9381"
+}

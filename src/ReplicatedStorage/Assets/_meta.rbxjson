@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Assets",
+  "parentId": "12109",
+  "path": "ReplicatedStorage/Assets",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9352"
+}

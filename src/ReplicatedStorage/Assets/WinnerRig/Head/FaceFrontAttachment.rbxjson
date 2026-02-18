@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "FaceFrontAttachment",
+  "parentId": "9761",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Head/FaceFrontAttachment",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          -0.6000000238418579
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9250"
+}

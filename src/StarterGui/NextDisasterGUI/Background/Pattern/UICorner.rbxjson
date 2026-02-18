@@ -1,0 +1,20 @@
+{
+  "className": "UICorner",
+  "name": "UICorner",
+  "parentId": "9473",
+  "path": "StarterGui/NextDisasterGUI/Background/Pattern/UICorner",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CornerRadius": {
+      "type": "UDim",
+      "value": {
+        "offset": 10,
+        "scale": 0
+      }
+    }
+  },
+  "referenceId": "12401"
+}

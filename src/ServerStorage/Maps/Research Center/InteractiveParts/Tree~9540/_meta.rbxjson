@@ -1,0 +1,31 @@
+{
+  "className": "Model",
+  "name": "Tree",
+  "parentId": "9374",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Tree~9540",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "9879"
+    }
+  },
+  "referenceId": "9540"
+}

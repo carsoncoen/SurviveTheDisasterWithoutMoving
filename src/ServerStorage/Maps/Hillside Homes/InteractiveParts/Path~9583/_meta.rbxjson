@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "Path",
+  "parentId": "9376",
+  "path": "ServerStorage/Maps/Hillside Homes/InteractiveParts/Path~9583",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9583"
+}

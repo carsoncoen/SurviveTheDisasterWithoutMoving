@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Audio",
+  "parentId": "9326",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Audio",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9333"
+}

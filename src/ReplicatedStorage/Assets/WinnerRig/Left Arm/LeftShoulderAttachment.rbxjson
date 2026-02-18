@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "LeftShoulderAttachment",
+  "parentId": "9763",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Left Arm/LeftShoulderAttachment",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          1,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9260"
+}

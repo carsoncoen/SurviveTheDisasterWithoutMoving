@@ -1,0 +1,21 @@
+{
+  "className": "BlurEffect",
+  "name": "UnderwaterBlur",
+  "parentId": "9512",
+  "path": "Lighting/UnderwaterBlur",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": false
+    },
+    "Size": {
+      "type": "float",
+      "value": 10
+    }
+  },
+  "referenceId": "9291"
+}

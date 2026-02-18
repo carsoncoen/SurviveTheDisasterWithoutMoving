@@ -1,0 +1,17 @@
+{
+  "className": "Keyframe",
+  "name": "Keyframe",
+  "parentId": "9511",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip/Keyframe",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Time": {
+      "type": "float",
+      "value": 0
+    }
+  },
+  "referenceId": "9506"
+}

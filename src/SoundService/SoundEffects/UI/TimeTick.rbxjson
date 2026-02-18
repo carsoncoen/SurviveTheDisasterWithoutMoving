@@ -1,0 +1,78 @@
+{
+  "className": "Sound",
+  "name": "TimeTick",
+  "parentId": "9323",
+  "path": "SoundService/SoundEffects/UI/TimeTick",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LoopRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "Looped": {
+      "type": "bool",
+      "value": false
+    },
+    "PlayOnRemove": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "PlaybackRegionsEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackSpeed": {
+      "type": "float",
+      "value": 1
+    },
+    "Playing": {
+      "type": "bool",
+      "value": false
+    },
+    "RollOffMaxDistance": {
+      "type": "float",
+      "value": 10000
+    },
+    "RollOffMinDistance": {
+      "type": "float",
+      "value": 10
+    },
+    "RollOffMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RollOffMode",
+        "value": "Inverse"
+      }
+    },
+    "SoundGroup": {
+      "type": "nil"
+    },
+    "SoundId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://121006323340223"
+    },
+    "TimePosition": {
+      "type": "double",
+      "value": 0
+    },
+    "Volume": {
+      "type": "float",
+      "value": 6
+    }
+  },
+  "referenceId": "12188"
+}

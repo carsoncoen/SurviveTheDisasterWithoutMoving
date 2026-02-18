@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Research Center",
+  "parentId": "9372",
+  "path": "ServerStorage/Maps/Research Center",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9373"
+}

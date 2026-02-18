@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Services",
+  "parentId": "9338",
+  "path": "ReplicatedStorage/Shared/Modules/Services",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9340"
+}

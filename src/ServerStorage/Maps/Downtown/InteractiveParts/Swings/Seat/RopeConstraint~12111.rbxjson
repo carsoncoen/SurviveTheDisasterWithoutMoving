@@ -1,0 +1,65 @@
+{
+  "className": "RopeConstraint",
+  "name": "RopeConstraint",
+  "parentId": "12562",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/Seat/RopeConstraint~12111",
+  "properties": {
+    "Attachment0": {
+      "type": "Ref",
+      "value": "9277"
+    },
+    "Attachment1": {
+      "type": "Ref",
+      "value": "9272"
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "BrickColor",
+      "value": 311
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Length": {
+      "type": "float",
+      "value": 12
+    },
+    "Restitution": {
+      "type": "float",
+      "value": 0
+    },
+    "Thickness": {
+      "type": "float",
+      "value": 0.20000000298023224
+    },
+    "Visible": {
+      "type": "bool",
+      "value": true
+    },
+    "WinchEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "WinchForce": {
+      "type": "float",
+      "value": 10000
+    },
+    "WinchResponsiveness": {
+      "type": "float",
+      "value": 45
+    },
+    "WinchSpeed": {
+      "type": "float",
+      "value": 2
+    },
+    "WinchTarget": {
+      "type": "float",
+      "value": 5
+    }
+  },
+  "referenceId": "12111"
+}

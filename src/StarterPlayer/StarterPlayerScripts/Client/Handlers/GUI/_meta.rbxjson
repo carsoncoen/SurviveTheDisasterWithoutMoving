@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "GUI",
+  "parentId": "9326",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/GUI",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9327"
+}

@@ -1,0 +1,27 @@
+{
+  "className": "KeyframeSequence",
+  "name": "Untitled Animation Clip",
+  "parentId": "9734",
+  "path": "ServerStorage/RBX_ANIMSAVES/Rig/Untitled Animation Clip",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Loop": {
+      "type": "bool",
+      "value": false
+    },
+    "Priority": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AnimationPriority",
+        "value": "Action"
+      }
+    }
+  },
+  "referenceId": "9511",
+  "tags": [
+    "1769054918"
+  ]
+}

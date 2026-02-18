@@ -1,0 +1,95 @@
+{
+  "className": "Workspace",
+  "name": "Workspace",
+  "parentId": "121922",
+  "path": "Workspace",
+  "properties": {
+    "AirDensity": {
+      "type": "float",
+      "value": 0.0012000000569969416
+    },
+    "AirTurbulenceIntensity": {
+      "type": "float",
+      "value": 0
+    },
+    "AllowThirdPartySales": {
+      "type": "bool",
+      "value": false
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ClientAnimatorThrottling": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ClientAnimatorThrottlingMode",
+        "value": "Default"
+      }
+    },
+    "CurrentCamera": {
+      "type": "Ref",
+      "value": "211391"
+    },
+    "DistributedGameTime": {
+      "type": "double",
+      "value": 0
+    },
+    "FallHeightEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "FallenPartsDestroyHeight": {
+      "type": "float",
+      "value": -500
+    },
+    "GlobalWind": {
+      "type": "Vector3",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "Gravity": {
+      "type": "float",
+      "value": 196.1999969482422
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "LuauTypeCheckMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LuauTypeCheckMode",
+        "value": "Default"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    },
+    "Retargeting": {
+      "type": "Enum",
+      "value": {
+        "enumType": "AnimatorRetargetingMode",
+        "value": "Default"
+      }
+    },
+    "StreamingEnabled": {
+      "type": "bool",
+      "value": true
+    }
+  },
+  "referenceId": "13"
+}

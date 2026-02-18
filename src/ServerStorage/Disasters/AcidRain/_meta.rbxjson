@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "AcidRain",
+  "parentId": "9363",
+  "path": "ServerStorage/Disasters/AcidRain",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9365"
+}

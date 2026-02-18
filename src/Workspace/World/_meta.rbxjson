@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "World",
+  "parentId": "13",
+  "path": "Workspace/World",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9319"
+}

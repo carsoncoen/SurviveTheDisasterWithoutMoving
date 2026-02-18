@@ -1,0 +1,8 @@
+{
+  "className": "TextLabel",
+  "name": "Header",
+  "parentId": "12203",
+  "path": "Workspace/Lobby/DonationLeaderboard/Leaderboard/ContainerGui/Header",
+  "properties": [],
+  "referenceId": "12230"
+}

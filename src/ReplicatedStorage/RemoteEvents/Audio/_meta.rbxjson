@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Audio",
+  "parentId": "9344",
+  "path": "ReplicatedStorage/RemoteEvents/Audio",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9346"
+}

@@ -1,0 +1,21 @@
+{
+  "className": "WeldConstraint",
+  "name": "WeldConstraint",
+  "parentId": "9779",
+  "path": "ServerStorage/Disasters/Tsunami/TsunamiWave/Base/WeldConstraint~12623",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9779"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "12567"
+    }
+  },
+  "referenceId": "12623"
+}

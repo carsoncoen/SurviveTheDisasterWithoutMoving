@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Initialization",
+  "parentId": "9326",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Initialization",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9329"
+}

@@ -1,0 +1,31 @@
+{
+  "className": "Model",
+  "name": "Bench",
+  "parentId": "9623",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/Boardwalk/Bench",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "10654"
+    }
+  },
+  "referenceId": "9624"
+}

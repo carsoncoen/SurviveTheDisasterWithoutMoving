@@ -1,0 +1,39 @@
+{
+  "className": "BodyPartDescription",
+  "name": "BodyPartDescription",
+  "parentId": "9436",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Humanoid/HumanoidDescription/BodyPartDescription~9300",
+  "properties": {
+    "AssetId": {
+      "type": "int",
+      "value": 0
+    },
+    "BodyPart": {
+      "type": "Enum",
+      "value": {
+        "enumType": "BodyPart",
+        "value": "Torso"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.5,
+        "g": 0.5,
+        "r": 0.5
+      }
+    },
+    "HeadShape": {
+      "type": "string",
+      "value": ""
+    },
+    "Instance": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9300"
+}

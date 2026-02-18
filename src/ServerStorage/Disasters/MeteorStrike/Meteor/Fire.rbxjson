@@ -1,0 +1,41 @@
+{
+  "className": "Fire",
+  "name": "Fire",
+  "parentId": "9782",
+  "path": "ServerStorage/Disasters/MeteorStrike/Meteor/Fire",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.2941176593303681,
+        "g": 0.458823561668396,
+        "r": 1
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "SecondaryColor": {
+      "type": "Color3",
+      "value": {
+        "b": 0.545098066329956,
+        "g": 0.3490196168422699,
+        "r": 0.5176470875740051
+      }
+    },
+    "Size": {
+      "type": "float",
+      "value": 30
+    },
+    "TimeScale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "9317"
+}

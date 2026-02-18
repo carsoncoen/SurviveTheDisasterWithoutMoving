@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "10468",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/House2/Part~10468/Snap",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -0.125,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          13.5,
+          2.5,
+          -14.0625
+        ],
+        "rotation": [
+          0,
+          1,
+          0,
+          2.086162567138672e-7,
+          0,
+          -1,
+          -1,
+          0,
+          -2.086162567138672e-7
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "10468"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "10460"
+    }
+  },
+  "referenceId": "12147"
+}

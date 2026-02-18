@@ -1,0 +1,13 @@
+{
+  "className": "RemoteFunction",
+  "name": "GetShopData",
+  "parentId": "9354",
+  "path": "ReplicatedStorage/RemoteFunctions/Items/GetShopData",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12107"
+}

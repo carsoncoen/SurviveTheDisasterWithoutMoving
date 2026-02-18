@@ -1,0 +1,20 @@
+{
+  "className": "UICorner",
+  "name": "UICorner",
+  "parentId": "9407",
+  "path": "StarterGui/TokensGUI/Container/TokensContainer/UICorner",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CornerRadius": {
+      "type": "UDim",
+      "value": {
+        "offset": 50,
+        "scale": 0
+      }
+    }
+  },
+  "referenceId": "12409"
+}

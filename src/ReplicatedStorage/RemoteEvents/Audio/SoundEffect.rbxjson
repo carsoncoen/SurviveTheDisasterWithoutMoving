@@ -1,0 +1,13 @@
+{
+  "className": "RemoteEvent",
+  "name": "SoundEffect",
+  "parentId": "9346",
+  "path": "ReplicatedStorage/RemoteEvents/Audio/SoundEffect",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "12104"
+}

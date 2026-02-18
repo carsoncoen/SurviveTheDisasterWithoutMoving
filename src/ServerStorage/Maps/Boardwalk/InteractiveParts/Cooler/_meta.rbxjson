@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "Cooler",
+  "parentId": "9378",
+  "path": "ServerStorage/Maps/Boardwalk/InteractiveParts/Cooler",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9636"
+}

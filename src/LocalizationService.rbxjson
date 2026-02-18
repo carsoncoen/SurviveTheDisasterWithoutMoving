@@ -1,0 +1,13 @@
+{
+  "className": "LocalizationService",
+  "name": "LocalizationService",
+  "parentId": "121922",
+  "path": "LocalizationService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "7099"
+}

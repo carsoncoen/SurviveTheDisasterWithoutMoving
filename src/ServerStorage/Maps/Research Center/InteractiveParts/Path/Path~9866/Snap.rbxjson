@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "9866",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Path/Path~9866/Snap",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -0.125,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          3.625,
+          0.5,
+          -16.25
+        ],
+        "rotation": [
+          -1,
+          -8.742277657347587e-8,
+          0,
+          0,
+          0,
+          -1,
+          8.742277657347587e-8,
+          -1,
+          -0.0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9866"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "10071"
+    }
+  },
+  "referenceId": "12146"
+}

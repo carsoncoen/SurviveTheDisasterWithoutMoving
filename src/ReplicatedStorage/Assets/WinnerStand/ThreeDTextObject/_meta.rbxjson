@@ -1,0 +1,34 @@
+{
+  "className": "Model",
+  "name": "ThreeDTextObject",
+  "parentId": "9526",
+  "path": "ReplicatedStorage/Assets/WinnerStand/ThreeDTextObject",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "9770"
+    }
+  },
+  "referenceId": "9527",
+  "tags": [
+    "ThreeDTextObject"
+  ]
+}

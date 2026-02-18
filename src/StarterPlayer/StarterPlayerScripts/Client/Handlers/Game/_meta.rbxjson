@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Game",
+  "parentId": "9326",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/Game",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9332"
+}

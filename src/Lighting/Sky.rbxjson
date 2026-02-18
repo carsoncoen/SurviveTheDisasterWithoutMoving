@@ -1,0 +1,101 @@
+{
+  "className": "Sky",
+  "name": "Sky",
+  "parentId": "9512",
+  "path": "Lighting/Sky",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CelestialBodiesShown": {
+      "type": "bool",
+      "value": true
+    },
+    "MoonAngularSize": {
+      "type": "float",
+      "value": 11
+    },
+    "MoonTextureContent": {
+      "type": "Content"
+    },
+    "MoonTextureId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "SkyboxBackContent": {
+      "type": "Content"
+    },
+    "SkyboxBk": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6444884337"
+    },
+    "SkyboxDn": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6444884785"
+    },
+    "SkyboxDownContent": {
+      "type": "Content"
+    },
+    "SkyboxFrontContent": {
+      "type": "Content"
+    },
+    "SkyboxFt": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6444884337"
+    },
+    "SkyboxLeftContent": {
+      "type": "Content"
+    },
+    "SkyboxLf": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6444884337"
+    },
+    "SkyboxOrientation": {
+      "type": "Vector3",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "SkyboxRightContent": {
+      "type": "Content"
+    },
+    "SkyboxRt": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6444884337"
+    },
+    "SkyboxUp": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://6412503613"
+    },
+    "SkyboxUpContent": {
+      "type": "Content"
+    },
+    "StarCount": {
+      "type": "int",
+      "value": 3000
+    },
+    "SunAngularSize": {
+      "type": "float",
+      "value": 11
+    },
+    "SunTextureContent": {
+      "type": "Content"
+    },
+    "SunTextureId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "12134"
+}

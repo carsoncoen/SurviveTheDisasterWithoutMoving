@@ -1,0 +1,78 @@
+{
+  "className": "Sound",
+  "name": "Lightning1",
+  "parentId": "9321",
+  "path": "SoundService/SoundEffects/Disasters/Lightning1",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LoopRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "Looped": {
+      "type": "bool",
+      "value": false
+    },
+    "PlayOnRemove": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "PlaybackRegionsEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackSpeed": {
+      "type": "float",
+      "value": 1.100000023841858
+    },
+    "Playing": {
+      "type": "bool",
+      "value": false
+    },
+    "RollOffMaxDistance": {
+      "type": "float",
+      "value": 10000
+    },
+    "RollOffMinDistance": {
+      "type": "float",
+      "value": 10
+    },
+    "RollOffMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RollOffMode",
+        "value": "Inverse"
+      }
+    },
+    "SoundGroup": {
+      "type": "nil"
+    },
+    "SoundId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://17823342903"
+    },
+    "TimePosition": {
+      "type": "double",
+      "value": 0
+    },
+    "Volume": {
+      "type": "float",
+      "value": 6
+    }
+  },
+  "referenceId": "12177"
+}

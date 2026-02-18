@@ -1,0 +1,78 @@
+{
+  "className": "Sound",
+  "name": "Tornado",
+  "parentId": "9321",
+  "path": "SoundService/SoundEffects/Disasters/Tornado",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LoopRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "Looped": {
+      "type": "bool",
+      "value": true
+    },
+    "PlayOnRemove": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "PlaybackRegionsEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackSpeed": {
+      "type": "float",
+      "value": 1
+    },
+    "Playing": {
+      "type": "bool",
+      "value": false
+    },
+    "RollOffMaxDistance": {
+      "type": "float",
+      "value": 850
+    },
+    "RollOffMinDistance": {
+      "type": "float",
+      "value": 40
+    },
+    "RollOffMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RollOffMode",
+        "value": "InverseTapered"
+      }
+    },
+    "SoundGroup": {
+      "type": "nil"
+    },
+    "SoundId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://5485676907"
+    },
+    "TimePosition": {
+      "type": "double",
+      "value": 0
+    },
+    "Volume": {
+      "type": "float",
+      "value": 5
+    }
+  },
+  "referenceId": "12183"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "MapToys",
+  "parentId": "9356",
+  "path": "ServerScriptService/Server/Services/MapToys",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9361"
+}

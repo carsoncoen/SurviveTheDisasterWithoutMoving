@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "Attachment",
+  "parentId": "12563",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/Seat~12563/Attachment~9279",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          1.7048606872558594,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9279"
+}

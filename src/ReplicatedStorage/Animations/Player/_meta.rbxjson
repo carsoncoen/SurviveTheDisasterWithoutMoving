@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Player",
+  "parentId": "9349",
+  "path": "ReplicatedStorage/Animations/Player",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9350"
+}

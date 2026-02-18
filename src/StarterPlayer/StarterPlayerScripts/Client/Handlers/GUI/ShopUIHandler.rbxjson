@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "StarterPlayer/StarterPlayerScripts/Client/Handlers/GUI/ShopUIHandler"
+    }
+  },
+  "className": "ModuleScript",
+  "name": "ShopUIHandler",
+  "parentId": "9327",
+  "path": "StarterPlayer/StarterPlayerScripts/Client/Handlers/GUI/ShopUIHandler",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9666"
+}

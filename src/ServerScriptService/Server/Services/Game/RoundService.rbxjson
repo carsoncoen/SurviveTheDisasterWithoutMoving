@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "RoundService",
+  "parentId": "9357",
+  "path": "ServerScriptService/Server/Services/Game/RoundService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9684"
+}

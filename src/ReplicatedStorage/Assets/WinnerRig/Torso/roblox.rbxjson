@@ -1,0 +1,72 @@
+{
+  "className": "Decal",
+  "name": "roblox",
+  "parentId": "9762",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Torso/roblox",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color3": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      }
+    },
+    "ColorMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "Face": {
+      "type": "Enum",
+      "value": {
+        "enumType": "NormalId",
+        "value": "Front"
+      }
+    },
+    "MetalnessMapContent": {
+      "type": "Content"
+    },
+    "NormalMapContent": {
+      "type": "Content"
+    },
+    "RoughnessMapContent": {
+      "type": "Content"
+    },
+    "Texture": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "TextureContent": {
+      "type": "Content"
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "UVOffset": {
+      "type": "Vector2",
+      "value": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "UVScale": {
+      "type": "Vector2",
+      "value": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "9314"
+}

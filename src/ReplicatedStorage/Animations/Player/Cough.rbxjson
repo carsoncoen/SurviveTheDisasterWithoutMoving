@@ -1,0 +1,18 @@
+{
+  "className": "Animation",
+  "name": "Cough",
+  "parentId": "9350",
+  "path": "ReplicatedStorage/Animations/Player/Cough",
+  "properties": {
+    "AnimationId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://96269414317617"
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9243"
+}

@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "StateService",
+  "parentId": "9358",
+  "path": "ServerScriptService/Server/Services/Player/StateService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9693"
+}

@@ -1,0 +1,17 @@
+{
+  "className": "BoolValue",
+  "name": "MoveDirectionZ",
+  "parentId": "12276",
+  "path": "Workspace/World/Water/TextureTop/MoveDirectionZ",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "bool",
+      "value": true
+    }
+  },
+  "referenceId": "9304"
+}

@@ -1,0 +1,88 @@
+{
+  "className": "Texture",
+  "name": "Back",
+  "parentId": "12569",
+  "path": "ServerStorage/Disasters/Tsunami/TsunamiWave/Wedge~12569/Back",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color3": {
+      "type": "Color3",
+      "value": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      }
+    },
+    "ColorMap": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://10024514185"
+    },
+    "Face": {
+      "type": "Enum",
+      "value": {
+        "enumType": "NormalId",
+        "value": "Back"
+      }
+    },
+    "MetalnessMapContent": {
+      "type": "Content"
+    },
+    "NormalMapContent": {
+      "type": "Content"
+    },
+    "OffsetStudsU": {
+      "type": "float",
+      "value": 0
+    },
+    "OffsetStudsV": {
+      "type": "float",
+      "value": 0
+    },
+    "RoughnessMapContent": {
+      "type": "Content"
+    },
+    "StudsPerTileU": {
+      "type": "float",
+      "value": 9
+    },
+    "StudsPerTileV": {
+      "type": "float",
+      "value": 9
+    },
+    "Texture": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://10024514185"
+    },
+    "TextureContent": {
+      "type": "Content"
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0.8999999761581421
+    },
+    "UVOffset": {
+      "type": "Vector2",
+      "value": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "UVScale": {
+      "type": "Vector2",
+      "value": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "ZIndex": {
+      "type": "int",
+      "value": 1
+    }
+  },
+  "referenceId": "12299"
+}

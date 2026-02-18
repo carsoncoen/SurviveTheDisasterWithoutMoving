@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "LightningStormService",
+  "parentId": "9360",
+  "path": "ServerScriptService/Server/Services/Disasters/LightningStormService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9710"
+}

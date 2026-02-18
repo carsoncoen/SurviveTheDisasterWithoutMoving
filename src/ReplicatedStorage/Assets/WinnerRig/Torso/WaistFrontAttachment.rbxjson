@@ -1,0 +1,38 @@
+{
+  "className": "Attachment",
+  "name": "WaistFrontAttachment",
+  "parentId": "9762",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Torso/WaistFrontAttachment",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -1,
+          -0.5
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Visible": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "9257"
+}

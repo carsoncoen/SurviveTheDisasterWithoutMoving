@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Folder",
+  "parentId": "9353",
+  "path": "ReplicatedStorage/RemoteFunctions/Folder",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "1811644"
+}

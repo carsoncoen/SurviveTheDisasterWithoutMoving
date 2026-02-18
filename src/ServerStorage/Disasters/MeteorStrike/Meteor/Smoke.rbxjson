@@ -1,0 +1,33 @@
+{
+  "className": "Smoke",
+  "name": "Smoke",
+  "parentId": "9782",
+  "path": "ServerStorage/Disasters/MeteorStrike/Meteor/Smoke",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": false
+    },
+    "Size": {
+      "type": "float",
+      "value": 10
+    },
+    "TimeScale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "12135"
+}

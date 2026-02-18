@@ -1,0 +1,67 @@
+{
+  "className": "Weld",
+  "name": "BTWeld",
+  "parentId": "9837",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Tower/Dish/Base~9837/BTWeld",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0.0454559326171875,
+          -3.66815185546875,
+          -5.151519775390625
+        ],
+        "rotation": [
+          1.9710875241467837e-34,
+          1,
+          -2.6148029054484656e-13,
+          -0.6007950901985168,
+          -2.090281479806208e-13,
+          -0.7994030714035034,
+          -0.7994030714035034,
+          1.5709607009348206e-13,
+          0.6007951498031616
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "9837"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "12561"
+    }
+  },
+  "referenceId": "12605"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Disasters",
+  "parentId": "9356",
+  "path": "ServerScriptService/Server/Services/Disasters",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9360"
+}

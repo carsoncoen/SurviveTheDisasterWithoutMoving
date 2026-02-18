@@ -1,0 +1,212 @@
+{
+  "className": "UnionOperation",
+  "csg": {
+    "operations": [
+      {
+        "partRef": "CSGPart_1",
+        "type": "add"
+      },
+      {
+        "partRef": "CSGNegate_2",
+        "type": "subtract"
+      },
+      {
+        "partRef": "CSGNegate_3",
+        "type": "subtract"
+      }
+    ],
+    "separable": true,
+    "version": 1
+  },
+  "name": "Dish",
+  "parentId": "9533",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Tower/Dish/Dish",
+  "properties": {
+    "Anchored": {
+      "type": "bool",
+      "value": true
+    },
+    "AudioCanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "BackSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BottomSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "BrickColor": {
+      "type": "BrickColor",
+      "value": 363
+    },
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -36.92436218261719,
+          -390.4604187011719,
+          31.84384536743164
+        ],
+        "rotation": [
+          0.999995231628418,
+          3.494272959869704e-8,
+          -2.626145878537045e-8,
+          1.8512146959009486e-29,
+          0.6007915139198303,
+          0.7993983030319214,
+          4.3710915775818655e-8,
+          -0.7994012832641602,
+          0.6007957458496094
+        ]
+      }
+    },
+    "CanCollide": {
+      "type": "bool",
+      "value": true
+    },
+    "CanQuery": {
+      "type": "bool",
+      "value": true
+    },
+    "CanTouch": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CastShadow": {
+      "type": "bool",
+      "value": true
+    },
+    "CollisionGroup": {
+      "type": "string",
+      "value": "Default"
+    },
+    "Color": {
+      "type": "Color3",
+      "value": {
+        "b": 0.3333333432674408,
+        "g": 0.38823530077934265,
+        "r": 0.40392157435417175
+      }
+    },
+    "CustomPhysicalProperties": {
+      "type": "nil"
+    },
+    "EnableFluidForces": {
+      "type": "bool",
+      "value": true
+    },
+    "FrontSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "LeftSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Locked": {
+      "type": "bool",
+      "value": false
+    },
+    "Massless": {
+      "type": "bool",
+      "value": false
+    },
+    "Material": {
+      "type": "Enum",
+      "value": {
+        "enumType": "Material",
+        "value": "Metal"
+      }
+    },
+    "PivotOffset": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Reflectance": {
+      "type": "float",
+      "value": 0
+    },
+    "RenderFidelity": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RenderFidelity",
+        "value": "Precise"
+      }
+    },
+    "RightSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "RootPriority": {
+      "type": "int",
+      "value": 0
+    },
+    "Size": {
+      "type": "Vector3",
+      "value": {
+        "x": 8.409929275512695,
+        "y": 8.40992259979248,
+        "z": 1.6024599075317385
+      }
+    },
+    "SmoothingAngle": {
+      "type": "float",
+      "value": 0
+    },
+    "TopSurface": {
+      "type": "Enum",
+      "value": {
+        "enumType": "SurfaceType",
+        "value": "Smooth"
+      }
+    },
+    "Transparency": {
+      "type": "float",
+      "value": 0
+    },
+    "UsePartColor": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "12561"
+}

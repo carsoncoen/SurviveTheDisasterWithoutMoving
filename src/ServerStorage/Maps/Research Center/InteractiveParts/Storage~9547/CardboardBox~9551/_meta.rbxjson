@@ -1,0 +1,30 @@
+{
+  "className": "Model",
+  "name": "CardboardBox",
+  "parentId": "9547",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts/Storage~9547/CardboardBox~9551",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "9551"
+}

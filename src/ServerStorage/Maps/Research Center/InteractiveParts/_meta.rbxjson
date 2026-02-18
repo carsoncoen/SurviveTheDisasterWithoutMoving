@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "InteractiveParts",
+  "parentId": "9373",
+  "path": "ServerStorage/Maps/Research Center/InteractiveParts",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9374"
+}

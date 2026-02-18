@@ -1,0 +1,255 @@
+{
+  "className": "ParticleEmitter",
+  "name": "ParticleEmitter",
+  "parentId": "9785",
+  "path": "ServerStorage/Disasters/Blackhole/BlackholePart/ParticleEmitter",
+  "properties": {
+    "Acceleration": {
+      "type": "Vector3",
+      "value": {
+        "x": 0,
+        "y": -2,
+        "z": 0
+      }
+    },
+    "Brightness": {
+      "type": "float",
+      "value": 1
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Color": {
+      "type": "ColorSequence",
+      "value": {
+        "keypoints": [
+          {
+            "color": {
+              "b": 0,
+              "g": 0,
+              "r": 0
+            },
+            "time": 0
+          },
+          {
+            "color": {
+              "b": 0,
+              "g": 0,
+              "r": 0
+            },
+            "time": 1
+          }
+        ]
+      }
+    },
+    "Drag": {
+      "type": "float",
+      "value": 0
+    },
+    "EmissionDirection": {
+      "type": "Enum",
+      "value": {
+        "enumType": "NormalId",
+        "value": "Top"
+      }
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "FlipbookFramerate": {
+      "type": "NumberRange",
+      "value": {
+        "max": 24,
+        "min": 24
+      }
+    },
+    "FlipbookIncompatible": {
+      "type": "string",
+      "value": "Particle texture must be 1024 by 1024 to use flipbooks."
+    },
+    "FlipbookLayout": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleFlipbookLayout",
+        "value": "Grid8x8"
+      }
+    },
+    "FlipbookMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleFlipbookMode",
+        "value": "Loop"
+      }
+    },
+    "FlipbookSizeX": {
+      "type": "int",
+      "value": 1
+    },
+    "FlipbookSizeY": {
+      "type": "int",
+      "value": 1
+    },
+    "FlipbookStartRandom": {
+      "type": "bool",
+      "value": true
+    },
+    "Lifetime": {
+      "type": "NumberRange",
+      "value": {
+        "max": 1,
+        "min": 0.5
+      }
+    },
+    "LightEmission": {
+      "type": "float",
+      "value": 0
+    },
+    "LightInfluence": {
+      "type": "float",
+      "value": 1
+    },
+    "LockedToPart": {
+      "type": "bool",
+      "value": true
+    },
+    "Orientation": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleOrientation",
+        "value": "FacingCamera"
+      }
+    },
+    "Rate": {
+      "type": "float",
+      "value": 10
+    },
+    "RotSpeed": {
+      "type": "NumberRange",
+      "value": {
+        "max": 30,
+        "min": 30
+      }
+    },
+    "Rotation": {
+      "type": "NumberRange",
+      "value": {
+        "max": 720,
+        "min": 720
+      }
+    },
+    "Shape": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleEmitterShape",
+        "value": "Box"
+      }
+    },
+    "ShapeInOut": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleEmitterShapeInOut",
+        "value": "Outward"
+      }
+    },
+    "ShapePartial": {
+      "type": "float",
+      "value": 1
+    },
+    "ShapeStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ParticleEmitterShapeStyle",
+        "value": "Volume"
+      }
+    },
+    "Size": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": 15
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": 40
+          }
+        ]
+      }
+    },
+    "Speed": {
+      "type": "NumberRange",
+      "value": {
+        "max": 2,
+        "min": 2
+      }
+    },
+    "SpreadAngle": {
+      "type": "Vector2",
+      "value": {
+        "x": 0.10000000149011612,
+        "y": 0.10000000149011612
+      }
+    },
+    "Squash": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": -0.10000000149011612
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": -0.2800000011920929
+          }
+        ]
+      }
+    },
+    "Texture": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://10034873151"
+    },
+    "TimeScale": {
+      "type": "float",
+      "value": 1
+    },
+    "Transparency": {
+      "type": "NumberSequence",
+      "value": {
+        "keypoints": [
+          {
+            "envelope": 0,
+            "time": 0,
+            "value": 0.4583333134651184
+          },
+          {
+            "envelope": 0,
+            "time": 1,
+            "value": 1
+          }
+        ]
+      }
+    },
+    "VelocityInheritance": {
+      "type": "float",
+      "value": 0
+    },
+    "WindAffectsDrag": {
+      "type": "bool",
+      "value": false
+    },
+    "ZOffset": {
+      "type": "float",
+      "value": 3
+    }
+  },
+  "referenceId": "12074"
+}

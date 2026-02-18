@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "FireService",
+  "parentId": "9360",
+  "path": "ServerScriptService/Server/Services/Disasters/FireService",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9707"
+}

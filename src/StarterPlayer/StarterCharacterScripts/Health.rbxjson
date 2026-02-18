@@ -1,0 +1,29 @@
+{
+  "className": "Script",
+  "name": "Health",
+  "parentId": "12197",
+  "path": "StarterPlayer/StarterCharacterScripts/Health",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Disabled": {
+      "type": "bool",
+      "value": true
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "RunContext": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RunContext",
+        "value": "Legacy"
+      }
+    }
+  },
+  "referenceId": "12124"
+}

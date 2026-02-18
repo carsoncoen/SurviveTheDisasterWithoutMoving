@@ -1,0 +1,31 @@
+{
+  "className": "Model",
+  "name": "Tornado",
+  "parentId": "9371",
+  "path": "ServerStorage/Disasters/Tornado/Tornado",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LevelOfDetail": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelLevelOfDetail",
+        "value": "Automatic"
+      }
+    },
+    "ModelStreamingMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ModelStreamingMode",
+        "value": "Default"
+      }
+    },
+    "PrimaryPart": {
+      "type": "Ref",
+      "value": "9786"
+    }
+  },
+  "referenceId": "9530"
+}

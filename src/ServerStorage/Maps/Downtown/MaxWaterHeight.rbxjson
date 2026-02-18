@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "MaxWaterHeight",
+  "parentId": "9379",
+  "path": "ServerStorage/Maps/Downtown/MaxWaterHeight",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 40
+    }
+  },
+  "referenceId": "9732"
+}

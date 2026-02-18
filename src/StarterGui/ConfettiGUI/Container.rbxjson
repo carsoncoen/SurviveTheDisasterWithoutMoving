@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Container",
+  "parentId": "12117",
+  "path": "StarterGui/ConfettiGUI/Container",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9335"
+}

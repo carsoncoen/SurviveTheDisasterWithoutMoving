@@ -1,0 +1,50 @@
+{
+  "className": "BodyGyro",
+  "name": "BodyGyro",
+  "parentId": "12562",
+  "path": "ServerStorage/Maps/Downtown/InteractiveParts/Swings/Seat/BodyGyro",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "D": {
+      "type": "float",
+      "value": 500
+    },
+    "MaxTorque": {
+      "type": "Vector3",
+      "value": {
+        "x": 400000,
+        "y": 0,
+        "z": 400000
+      }
+    },
+    "P": {
+      "type": "float",
+      "value": 3000
+    }
+  },
+  "referenceId": "9293"
+}

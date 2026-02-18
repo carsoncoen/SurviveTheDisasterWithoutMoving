@@ -1,0 +1,78 @@
+{
+  "className": "Sound",
+  "name": "Cough3",
+  "parentId": "9322",
+  "path": "SoundService/SoundEffects/Player/Cough3",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LoopRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "Looped": {
+      "type": "bool",
+      "value": false
+    },
+    "PlayOnRemove": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackRegion": {
+      "type": "NumberRange",
+      "value": {
+        "max": 60000,
+        "min": 0
+      }
+    },
+    "PlaybackRegionsEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "PlaybackSpeed": {
+      "type": "float",
+      "value": 0.8999999761581421
+    },
+    "Playing": {
+      "type": "bool",
+      "value": false
+    },
+    "RollOffMaxDistance": {
+      "type": "float",
+      "value": 10000
+    },
+    "RollOffMinDistance": {
+      "type": "float",
+      "value": 10
+    },
+    "RollOffMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RollOffMode",
+        "value": "Inverse"
+      }
+    },
+    "SoundGroup": {
+      "type": "nil"
+    },
+    "SoundId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxassetid://9113948416"
+    },
+    "TimePosition": {
+      "type": "double",
+      "value": 0
+    },
+    "Volume": {
+      "type": "float",
+      "value": 0.800000011920929
+    }
+  },
+  "referenceId": "12186"
+}

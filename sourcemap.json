@@ -1,0 +1,65 @@
+{
+  "children": [
+    {
+      "children": [],
+      "className": "ReplicatedStorage",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\ReplicatedStorage"
+      ],
+      "name": "ReplicatedStorage"
+    },
+    {
+      "children": [],
+      "className": "ServerScriptService",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\ServerScriptService"
+      ],
+      "name": "ServerScriptService"
+    },
+    {
+      "children": [],
+      "className": "ServerStorage",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\ServerStorage"
+      ],
+      "name": "ServerStorage"
+    },
+    {
+      "children": [],
+      "className": "StarterGui",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\StarterGui"
+      ],
+      "name": "StarterGui"
+    },
+    {
+      "children": [],
+      "className": "StarterPack",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\StarterPack"
+      ],
+      "name": "StarterPack"
+    },
+    {
+      "children": [],
+      "className": "StarterPlayer",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\StarterPlayer"
+      ],
+      "name": "StarterPlayer"
+    },
+    {
+      "children": [],
+      "className": "Workspace",
+      "filePaths": [
+        "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src\\Workspace"
+      ],
+      "name": "Workspace"
+    }
+  ],
+  "className": "DataModel",
+  "filePaths": [
+    "C:\\Users\\carso\\Documents\\RobloxProjects\\SurviveDisasterWOMoving\\SurviveTheDisasterWithoutMoving\\src"
+  ],
+  "name": "game"
+}

@@ -1,0 +1,54 @@
+{
+  "className": "SoundService",
+  "name": "SoundService",
+  "parentId": "121922",
+  "path": "SoundService",
+  "properties": {
+    "AcousticSimulationEnabled": {
+      "type": "bool",
+      "value": false
+    },
+    "AmbientReverb": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ReverbType",
+        "value": "NoReverb"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CharacterSoundsUseNewApi": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RolloutState",
+        "value": "Default"
+      }
+    },
+    "DefaultListenerLocation": {
+      "type": "Enum",
+      "value": {
+        "enumType": "ListenerLocation",
+        "value": "Camera"
+      }
+    },
+    "DistanceFactor": {
+      "type": "float",
+      "value": 3.3299999237060547
+    },
+    "DopplerScale": {
+      "type": "float",
+      "value": 1
+    },
+    "RespectFilteringEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "RolloffScale": {
+      "type": "float",
+      "value": 1
+    }
+  },
+  "referenceId": "6271"
+}

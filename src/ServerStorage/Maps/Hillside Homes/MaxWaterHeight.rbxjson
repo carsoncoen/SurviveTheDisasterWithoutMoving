@@ -1,0 +1,17 @@
+{
+  "className": "NumberValue",
+  "name": "MaxWaterHeight",
+  "parentId": "9375",
+  "path": "ServerStorage/Maps/Hillside Homes/MaxWaterHeight",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Value": {
+      "type": "double",
+      "value": 35
+    }
+  },
+  "referenceId": "9730"
+}

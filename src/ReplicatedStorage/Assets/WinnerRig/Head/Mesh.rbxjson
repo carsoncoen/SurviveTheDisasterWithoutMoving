@@ -1,0 +1,54 @@
+{
+  "className": "SpecialMesh",
+  "name": "Mesh",
+  "parentId": "9761",
+  "path": "ReplicatedStorage/Assets/WinnerRig/Head/Mesh",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "MeshId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "MeshType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "MeshType",
+        "value": "Head"
+      }
+    },
+    "Offset": {
+      "type": "Vector3",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "Scale": {
+      "type": "Vector3",
+      "value": {
+        "x": 1.25,
+        "y": 1.25,
+        "z": 1.25
+      }
+    },
+    "TextureId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "VertexColor": {
+      "type": "Vector3",
+      "value": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  },
+  "referenceId": "12196"
+}

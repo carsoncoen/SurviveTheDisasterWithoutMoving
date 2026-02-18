@@ -1,0 +1,13 @@
+{
+  "className": "Folder",
+  "name": "Maps",
+  "parentId": "12132",
+  "path": "ServerStorage/Maps",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9372"
+}
